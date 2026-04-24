@@ -43,22 +43,38 @@ SESSION.headers.update({
 
 # --------------------------- Telegram ---------------------------
 
-def telegram(text: str) -> None:
-    """Send a single Telegram message in HTML mode."""
+def _send_one(chat_id: str, text: str) -> bool:
+    """Send to a single chat. Returns False if the user blocked the bot."""
     resp = requests.post(
         TELEGRAM_URL.format(token=TOKEN),
         json={
-            "chat_id": CHAT_ID,
+            "chat_id": chat_id,
             "text": text,
             "parse_mode": "HTML",
             "disable_web_page_preview": True,
         },
         timeout=20,
     )
+    if resp.status_code == 403:
+        # User blocked the bot, drop them silently
+        print(f"[telegram] {chat_id} blocked the bot, dropping")
+        return False
     if not resp.ok:
-        print(f"[telegram] ERROR {resp.status_code}: {resp.text}", file=sys.stderr)
-    resp.raise_for_status()
+        print(f"[telegram] ERROR {resp.status_code} for {chat_id}: {resp.text}",
+              file=sys.stderr)
+    return True
 
+
+def telegram(text: str) -> None:
+    """Send the message to the owner and to every subscriber."""
+    targets = {CHAT_ID, *load_subscribers()}
+    blocked = []
+    for chat_id in targets:
+        if not _send_one(chat_id, text):
+            blocked.append(chat_id)
+        time.sleep(0.05)  # well under Telegram's 30 msg/s limit
+    if blocked:
+        prune_subscribers(blocked)
 
 # --------------------------- WCA API ---------------------------
 
@@ -180,6 +196,22 @@ def save_state(state: dict) -> None:
         encoding="utf-8",
     )
 
+SUBS_FILE = Path("data/subscribers.json")
+
+def load_subscribers() -> list[str]:
+    if not SUBS_FILE.exists():
+        return []
+    data = json.loads(SUBS_FILE.read_text(encoding="utf-8"))
+    return [str(x) for x in data.get("subscribers", [])]
+
+
+def prune_subscribers(blocked: list[str]) -> None:
+    subs = load_subscribers()
+    kept = [s for s in subs if s not in blocked]
+    SUBS_FILE.write_text(
+        json.dumps({"subscribers": kept}, indent=2) + "\n",
+        encoding="utf-8",
+    )
 
 def is_digest_day() -> bool:
     """Weekly digest on Mondays (UTC)."""
