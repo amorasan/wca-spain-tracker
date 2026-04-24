@@ -52,6 +52,11 @@ async function handleCommand(text, env) {
     return cmdHorario(id, env);
   }
 
+  if (cmdLower.startsWith("/inscripcion_")) {
+    const id = cmdRaw.split("@")[0].slice("/inscripcion_".length);
+    return cmdInscripcion(id, env);
+  }
+  
   const cmd = cmdLower;
 
   switch (cmd) {
@@ -62,6 +67,8 @@ async function handleCommand(text, env) {
       return cmdProximas(env);
     case "/horario":
       return arg ? cmdHorario(arg, env) : "Uso: <code>/horario &lt;competition_id&gt;</code>";
+    case "/inscripcion":
+      return arg ? cmdInscripcion(arg, env) : "Uso: <code>/inscripcion &lt;competition_id&gt;</code>";
     case "/buscar":
       return arg ? cmdBuscar(arg, env) : "Uso: <code>/buscar &lt;texto&gt;</code>";
     default:
@@ -76,6 +83,7 @@ function helpText() {
     "/proximas — próximas 10 competiciones",
     "/horario &lt;id&gt; — horario completo de una competición",
     "/buscar &lt;texto&gt; — busca por nombre o ciudad",
+    "/inscripcion &lt;id&gt; — cuándo abre y cierra la inscripción",
     "",
     "El <code>id</code> es el identificador WCA, p. ej. <code>MadridOpen2026</code>.",
   ].join("\n");
@@ -153,6 +161,34 @@ async function sendMessage(token, chatId, text) {
       disable_web_page_preview: true,
     }),
   });
+}
+
+function fmtMadrid(iso) {
+  if (!iso) return "—";
+  return new Date(iso).toLocaleString("es-ES", {
+    timeZone: "Europe/Madrid",
+    day: "2-digit", month: "2-digit", year: "numeric",
+    hour: "2-digit", minute: "2-digit",
+  });
+}
+
+async function cmdInscripcion(id, env) {
+  const state = await loadState(env);
+  const c = state[id] ||
+            Object.values(state).find(x => x.id.toLowerCase() === id.toLowerCase());
+  if (!c) return `No encuentro <code>${escapeHtml(id)}</code>. Prueba /proximas.`;
+
+  return [
+    `<b>${escapeHtml(c.name)}</b>`,
+    `📍 ${escapeHtml(c.city)}`,
+    "",
+    `📝 <b>Inscripción</b>`,
+    `Abre:   ${fmtMadrid(c.registration_open)}`,
+    `Cierra: ${fmtMadrid(c.registration_close)}`,
+    `Plazas: ${c.competitor_limit || "sin límite"}`,
+    "",
+    `🔗 https://www.worldcubeassociation.org/competitions/${c.id}/register`,
+  ].join("\n");
 }
 
 function escapeHtml(s) {
