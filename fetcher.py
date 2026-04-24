@@ -189,7 +189,7 @@ def main() -> int:
     competitions = fetch_competitions()
     print(f"Fetched {len(competitions)} competitions in Spain")
 
-    for comp in competitions:
+    for comp in sorted(fetch_competitions(), key=lambda c: c["start_date"], reverse=True):
         try:
             wcif = fetch_wcif(comp["id"])
         except requests.HTTPError as e:
@@ -229,8 +229,8 @@ def main() -> int:
             + schedule_summary(wcif)
         )
 
-    if (FORCE_DIGEST or is_digest_day()) and new_state:
-        upcoming = sorted(new_state.values(), key=lambda c: c["start_date"])[:15]
+	if FORCE_DIGEST and new_state:
+        upcoming = sorted(new_state.values(), key=lambda c: c["start_date"])
         body = "\n\n".join(format_competition(c) for c in upcoming)
         telegram(f"📋 <b>Competiciones próximas en España</b>\n\n{body}")
 
