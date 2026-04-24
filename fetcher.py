@@ -21,6 +21,7 @@ import sys
 import time
 from datetime import date, datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -142,12 +143,22 @@ def diff_fields(old: dict, new: dict) -> list[str]:
     keys = set(old) | set(new)
     return sorted(k for k in keys if old.get(k) != new.get(k))
 
+MADRID = ZoneInfo("Europe/Madrid")
+
+def fmt_dt_madrid(iso: str | None) -> str:
+    """Convierte un timestamp ISO UTC a 'dd/mm/YYYY HH:MM' en hora peninsular."""
+    if not iso:
+        return "—"
+    dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+    return dt.astimezone(MADRID).strftime("%d/%m/%Y %H:%M")
 
 def format_competition(c: dict) -> str:
     return (
         f"<b>{c['name']}</b>\n"
         f"📍 {c['city']}\n"
         f"📅 {c['start_date']} → {c['end_date']}\n"
+        f"📝 Inscripción: {fmt_dt_madrid(c.get('registration_open'))}"
+        f" → {fmt_dt_madrid(c.get('registration_close'))}\n"
         f"🧩 Eventos: {', '.join(c['events']) if c['events'] else '—'}\n"
         f"🔗 https://www.worldcubeassociation.org/competitions/{c['id']}"
     )
