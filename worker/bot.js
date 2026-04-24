@@ -43,13 +43,16 @@ export default {
 
 async function handleCommand(text, env) {
   const [cmdRaw, ...rest] = text.split(/\s+/);
-  const cmd = cmdRaw.toLowerCase().split("@")[0];
+  const cmdLower = cmdRaw.toLowerCase().split("@")[0];
   const arg = rest.join(" ");
 
-  // Allow /horario_<id> as a single token (so digest links can be tappable)
-  if (cmd.startsWith("/horario_")) {
-    return cmdHorario(cmd.slice("/horario_".length), env);
+  // /horario_<id> — preserve original case for the id
+  if (cmdLower.startsWith("/horario_")) {
+    const id = cmdRaw.split("@")[0].slice("/horario_".length);
+    return cmdHorario(id, env);
   }
+
+  const cmd = cmdLower;
 
   switch (cmd) {
     case "/start":
