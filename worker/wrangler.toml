@@ -1,0 +1,11 @@
+name = "wca-spain-bot"
+main = "bot.js"
+compatibility_date = "2025-01-01"
+
+# Configura aquí tu STATE_URL (público, raw del repo)
+[vars]
+STATE_URL = "https://raw.githubusercontent.com/USUARIO/REPO/main/data/competitions.json"
+
+# Los secretos (TELEGRAM_TOKEN, ALLOWED_CHAT_ID) se añaden con:
+#   npx wrangler secret put TELEGRAM_TOKEN
+#   npx wrangler secret put ALLOWED_CHAT_ID
