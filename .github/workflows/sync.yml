@@ -44,10 +44,14 @@ jobs:
 
       - name: Commit state if changed
         run: |
-          if [[ -n "$(git status --porcelain data/competitions.json)" ]]; then
+          changed=""
+          [[ -n "$(git status --porcelain data/competitions.json)" ]] && changed="data/competitions.json"
+          [[ -n "$(git status --porcelain data/subscribers.json)" ]] && changed="$changed data/subscribers.json"
+          if [[ -n "$changed" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/competitions.json
+            git pull --rebase
+            git add $changed
             git commit -m "chore: update WCA Spain state [skip ci]"
             git push
           else
