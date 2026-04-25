@@ -272,7 +272,7 @@ def main() -> int:
             + schedule_summary(wcif)
         )
 
-	if FORCE_DIGEST and new_state:
+    if FORCE_DIGEST and new_state:
         upcoming = sorted(new_state.values(), key=lambda c: c["start_date"])
         body = "\n\n".join(format_competition(c) for c in upcoming)
         telegram(f"📋 <b>Competiciones próximas en España</b>\n\n{body}")
