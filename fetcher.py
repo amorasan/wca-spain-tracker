@@ -276,7 +276,7 @@ def main() -> int:
         upcoming = sorted(new_state.values(), key=lambda c: c["start_date"])
         body = "\n\n".join(format_competition(c) for c in upcoming)
         telegram(f"📋 <b>Competiciones próximas en España</b>\n\n{body}")
-
+	
     print(
         f"OK · {len(new_state)} totales · "
         f"{len(new_comps)} nuevas · {len(changed_comps)} cambiadas"
