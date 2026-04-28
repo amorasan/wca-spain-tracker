@@ -1,165 +1,7 @@
 {
   "competitions": {
-    "BatanOpen2026": {
-      "city": "Madrid",
-      "competitor_limit": 160,
-      "end_date": "2026-06-07",
-      "events": [
-        "333",
-        "222",
-        "444",
-        "555",
-        "333oh",
-        "minx",
-        "pyram",
-        "skewb",
-        "sq1"
-      ],
-      "id": "BatanOpen2026",
-      "name": "Batán Open 2026",
-      "registration_close": "2026-05-17T21:59:00.000Z",
-      "registration_open": "2026-04-13T17:00:00.000Z",
-      "schedule": [
-        {
-          "end": "2026-06-06T09:40:00Z",
-          "name": "Pyraminx, Round 1",
-          "start": "2026-06-06T08:30:00Z"
-        },
-        {
-          "end": "2026-06-06T18:30:00Z",
-          "name": "3x3x3 Cube, Round 1",
-          "start": "2026-06-06T16:30:00Z"
-        },
-        {
-          "end": "2026-06-06T14:10:00Z",
-          "name": "Skewb, Round 1",
-          "start": "2026-06-06T13:15:00Z"
-        },
-        {
-          "end": "2026-06-06T11:55:00Z",
-          "name": "4x4x4 Cube, Round 1",
-          "start": "2026-06-06T10:40:00Z"
-        },
-        {
-          "end": "2026-06-06T08:30:00Z",
-          "name": "Registro",
-          "start": "2026-06-06T08:00:00Z"
-        },
-        {
-          "end": "2026-06-06T08:30:00Z",
-          "name": "Tutorial para nuevos competidores",
-          "start": "2026-06-06T08:15:00Z"
-        },
-        {
-          "end": "2026-06-06T13:15:00Z",
-          "name": "Comida",
-          "start": "2026-06-06T11:55:00Z"
-        },
-        {
-          "end": "2026-06-06T15:40:00Z",
-          "name": "2x2x2 Cube, Round 1",
-          "start": "2026-06-06T14:10:00Z"
-        },
-        {
-          "end": "2026-06-07T08:40:00Z",
-          "name": "3x3x3 One-Handed, Round 1",
-          "start": "2026-06-07T07:30:00Z"
-        },
-        {
-          "end": "2026-06-06T16:30:00Z",
-          "name": "Square-1, Round 1",
-          "start": "2026-06-06T15:40:00Z"
-        },
-        {
-          "end": "2026-06-07T09:40:00Z",
-          "name": "3x3x3 Cube, Round 2",
-          "start": "2026-06-07T08:40:00Z"
-        },
-        {
-          "end": "2026-06-07T11:40:00Z",
-          "name": "2x2x2 Cube, Round 2",
-          "start": "2026-06-07T11:00:00Z"
-        },
-        {
-          "end": "2026-06-07T10:40:00Z",
-          "name": "5x5x5 Cube, Round 1",
-          "start": "2026-06-07T09:40:00Z"
-        },
-        {
-          "end": "2026-06-06T10:40:00Z",
-          "name": "Megaminx, Round 1",
-          "start": "2026-06-06T09:40:00Z"
-        },
-        {
-          "end": "2026-06-07T14:45:00Z",
-          "name": "2x2x2 Cube, Round 3",
-          "start": "2026-06-07T14:25:00Z"
-        },
-        {
-          "end": "2026-06-07T12:05:00Z",
-          "name": "4x4x4 Cube, Round 2",
-          "start": "2026-06-07T11:40:00Z"
-        },
-        {
-          "end": "2026-06-07T11:00:00Z",
-          "name": "Square-1, Round 2",
-          "start": "2026-06-07T10:40:00Z"
-        },
-        {
-          "end": "2026-06-07T15:25:00Z",
-          "name": "Pyraminx, Round 2",
-          "start": "2026-06-07T15:05:00Z"
-        },
-        {
-          "end": "2026-06-07T13:25:00Z",
-          "name": "Comida",
-          "start": "2026-06-07T12:05:00Z"
-        },
-        {
-          "end": "2026-06-07T14:25:00Z",
-          "name": "3x3x3 Cube, Round 3",
-          "start": "2026-06-07T14:05:00Z"
-        },
-        {
-          "end": "2026-06-07T15:05:00Z",
-          "name": "3x3x3 One-Handed, Round 2",
-          "start": "2026-06-07T14:45:00Z"
-        },
-        {
-          "end": "2026-06-07T16:05:00Z",
-          "name": "3x3x3 Cube, Round 4",
-          "start": "2026-06-07T15:45:00Z"
-        },
-        {
-          "end": "2026-06-07T14:05:00Z",
-          "name": "Skewb, Round 2",
-          "start": "2026-06-07T13:25:00Z"
-        },
-        {
-          "end": "2026-06-07T16:45:00Z",
-          "name": "Entrega de premios",
-          "start": "2026-06-07T16:05:00Z"
-        },
-        {
-          "end": "2026-06-07T15:45:00Z",
-          "name": "Skewb, Round 3",
-          "start": "2026-06-07T15:25:00Z"
-        },
-        {
-          "end": "2026-06-06T08:00:00Z",
-          "name": "Montaje",
-          "start": "2026-06-06T07:00:00Z"
-        },
-        {
-          "end": "2026-06-07T07:30:00Z",
-          "name": "Apertura de puertas",
-          "start": "2026-06-07T07:15:00Z"
-        }
-      ],
-      "start_date": "2026-06-06",
-      "venue": "CDM El Olivillo"
-    },
     "BegastriOpen2026": {
+      "cancelled_at": null,
       "city": "Cehegín, Murcia",
       "competitor_limit": 54,
       "end_date": "2026-08-23",
@@ -497,6 +339,7 @@
       "venue": "[Centro Cultural Adolfo Suárez](https://www.facebook.com/people/Centro-cultural-Adolfo-Su%C3%A1rez/100059695455281/)"
     },
     "BilbaoGoesDark2026": {
+      "cancelled_at": null,
       "city": "Bilbao, Bizkaia",
       "competitor_limit": 80,
       "end_date": "2026-08-12",
@@ -553,6 +396,7 @@
       "venue": "La Perrera"
     },
     "CaminodeSantiagoOpen2026": {
+      "cancelled_at": null,
       "city": "Santiago de Compostela, A Coruña, Galicia",
       "competitor_limit": 80,
       "end_date": "2026-05-10",
@@ -682,6 +526,7 @@
       "venue": "[Área Central](https://areacentral.es/es/)"
     },
     "CanetdenBerenguerOpen2026": {
+      "cancelled_at": null,
       "city": "Canet d'en Berenguer, Valencia",
       "competitor_limit": 75,
       "end_date": "2026-05-10",
@@ -810,6 +655,7 @@
       "venue": "[Auditori Municipal de Canet d'en Berenguer](https://www.canetdenberenguer.es/va/pagina/auditori)"
     },
     "GANCubingVic2026": {
+      "cancelled_at": null,
       "city": "Vic",
       "competitor_limit": 140,
       "end_date": "2026-05-24",
@@ -943,6 +789,7 @@
       "venue": "Antiga Biblioteca Joan Triadú. "
     },
     "GaresOpen2026": {
+      "cancelled_at": null,
       "city": "Gares - Puente La Reina",
       "competitor_limit": 50,
       "end_date": "2026-05-30",
@@ -1033,6 +880,7 @@
       "venue": "Casa del Vínculo - Información de Turismo"
     },
     "GranollersOpen2026": {
+      "cancelled_at": null,
       "city": "Granollers, Cataluña",
       "competitor_limit": 70,
       "end_date": "2026-05-17",
@@ -1189,6 +1037,7 @@
       "venue": "[Rocaumbert](https://www.rocaumbert.com/)"
     },
     "IndalOpenOClock2026": {
+      "cancelled_at": null,
       "city": "Huércal de Almería, Almería",
       "competitor_limit": 60,
       "end_date": "2026-05-24",
@@ -1338,6 +1187,7 @@
       "venue": "Teatro Multiusos"
     },
     "IzarraizpeOpen2026": {
+      "cancelled_at": null,
       "city": "Azpeitia, Gipuzkoa",
       "competitor_limit": 80,
       "end_date": "2026-07-05",
@@ -1503,6 +1353,7 @@
       "venue": "Izarraizpe Ikastola publikoa"
     },
     "LierganesOpen2026": {
+      "cancelled_at": null,
       "city": "Liérganes",
       "competitor_limit": 64,
       "end_date": "2026-05-24",
@@ -1651,6 +1502,7 @@
       "venue": "Centro educativo infantil y primaria Eugenio Perojo"
     },
     "MadridMiniopen2026": {
+      "cancelled_at": null,
       "city": "Madrid",
       "competitor_limit": 30,
       "end_date": "2026-05-16",
@@ -1726,6 +1578,7 @@
       "venue": "[Ajedrez con Cabeza](https://ajedrezconcabeza.com/)"
     },
     "MostolesOpen2026": {
+      "cancelled_at": null,
       "city": "Móstoles, Madrid",
       "competitor_limit": 80,
       "end_date": "2026-05-10",
@@ -1859,6 +1712,7 @@
       "venue": "[Colegio Internacional Villa de Móstoles](https://www.colegiovillademostoles.cbvm.net/)"
     },
     "NoVeasOcana2026": {
+      "cancelled_at": null,
       "city": "Ocaña, Toledo",
       "competitor_limit": 50,
       "end_date": "2026-06-20",
@@ -1949,6 +1803,7 @@
       "venue": "Casa de la Cultura de Ocaña"
     },
     "OcanaBotijOpen2026": {
+      "cancelled_at": null,
       "city": "Ocaña, Toledo",
       "competitor_limit": 50,
       "end_date": "2026-08-09",
@@ -2080,6 +1935,7 @@
       "venue": "Iglesia de San Alberto"
     },
     "RutaCuberaVilarealOpen2026": {
+      "cancelled_at": null,
       "city": "Vilareal",
       "competitor_limit": 65,
       "end_date": "2026-06-21",
@@ -2220,6 +2076,7 @@
       "venue": "Colegio Santa Maria"
     },
     "SantpedorOpen2026": {
+      "cancelled_at": null,
       "city": "Santpedor",
       "competitor_limit": 150,
       "end_date": "2026-06-21",
@@ -2361,6 +2218,7 @@
       "venue": "Sala Cal Llovet"
     },
     "SpanishChampionship2026": {
+      "cancelled_at": null,
       "city": "Barakaldo, Bizkaia",
       "competitor_limit": 400,
       "end_date": "2026-12-07",
@@ -2642,6 +2500,7 @@
       "venue": "Polideportivo Lasesarre"
     },
     "TafallaOpen2026": {
+      "cancelled_at": null,
       "city": "Tafalla",
       "competitor_limit": 64,
       "end_date": "2026-09-27",
@@ -2781,6 +2640,7 @@
       "venue": "Centro Cultural Tafalla Kulturgunea"
     },
     "TomellosoOpen2026": {
+      "cancelled_at": null,
       "city": "Tomelloso, Ciudad Real",
       "competitor_limit": 50,
       "end_date": "2026-05-17",
@@ -2931,6 +2791,7 @@
       "venue": "Antiguo Hangar de la Estación de Tren de Tomelloso"
     },
     "UPVOpen2026": {
+      "cancelled_at": null,
       "city": "Valencia",
       "competitor_limit": 50,
       "end_date": "2026-05-24",
@@ -3066,6 +2927,7 @@
       "venue": "[Casa del Alumno UPV](https://casadelalumno.blogs.upv.es/)"
     },
     "VigoOpen2026": {
+      "cancelled_at": null,
       "city": "Vigo, Galicia",
       "competitor_limit": 60,
       "end_date": "2026-07-11",
@@ -3154,6 +3016,7 @@
       "venue": "https://vialiavigo.com/"
     },
     "XMadridOpen2026": {
+      "cancelled_at": null,
       "city": "Alcorcón, Madrid",
       "competitor_limit": 125,
       "end_date": "2026-05-24",
@@ -3278,5 +3141,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-04-28T20:16:41.265317Z"
+  "updated_at": "2026-04-28T21:28:38.636113Z"
 }
