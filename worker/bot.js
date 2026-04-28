@@ -115,6 +115,7 @@ async function cmdStop(msg, env) {
 async function cmdProximas(env) {
   const state = await loadCompetitions(env);
   const list = Object.values(state)
+    .filter(c => !c.cancelled_at)
     .sort((a, b) => a.start_date.localeCompare(b.start_date))
     .slice(0, 10);
   if (!list.length) return "No tengo competiciones registradas todavía.";
@@ -133,6 +134,16 @@ async function cmdHorario(id, env) {
   const state = await loadCompetitions(env);
   const c = findComp(state, id);
   if (!c) return `No encuentro <code>${escapeHtml(id)}</code>. Prueba /proximas.`;
+  if (c.cancelled_at) {
+    return [
+      `<b>${escapeHtml(c.name)}</b>`,
+      `📍 ${escapeHtml(c.city)}`,
+      "",
+      "🚫 <b>Esta competición ha sido cancelada.</b>",
+      "",
+      `🔗 https://www.worldcubeassociation.org/competitions/${c.id}`,
+    ].join("\n");
+  }
   const lines = (c.schedule || [])
     .slice()
     .sort((a, b) => a.start.localeCompare(b.start))
@@ -154,6 +165,17 @@ async function cmdInscripcion(id, env) {
   const state = await loadCompetitions(env);
   const c = findComp(state, id);
   if (!c) return `No encuentro <code>${escapeHtml(id)}</code>. Prueba /proximas.`;
+  if (c.cancelled_at) {
+    return [
+      `<b>${escapeHtml(c.name)}</b>`,
+      `📍 ${escapeHtml(c.city)}`,
+      "",
+      "🚫 <b>Esta competición ha sido cancelada.</b>",
+      "No hay inscripción disponible.",
+      "",
+      `🔗 https://www.worldcubeassociation.org/competitions/${c.id}`,
+    ].join("\n");
+  }
   return [
     `<b>${escapeHtml(c.name)}</b>`,
     `📍 ${escapeHtml(c.city)}`,
@@ -171,7 +193,8 @@ async function cmdBuscar(query, env) {
   const state = await loadCompetitions(env);
   const q = query.toLowerCase();
   const hits = Object.values(state).filter(c =>
-    c.name.toLowerCase().includes(q) || c.city.toLowerCase().includes(q)
+    !c.cancelled_at &&
+    (c.name.toLowerCase().includes(q) || c.city.toLowerCase().includes(q))
   );
   if (!hits.length) return `Sin resultados para <i>${escapeHtml(query)}</i>.`;
   return hits.slice(0, 15).map(c =>

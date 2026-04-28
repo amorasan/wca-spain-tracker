@@ -145,6 +145,7 @@ def short_view(comp: dict, wcif: dict) -> dict:
         "registration_open": comp.get("registration_open"),
         "registration_close": comp.get("registration_close"),
         "competitor_limit": comp.get("competitor_limit"),
+        "cancelled_at": comp.get("cancelled_at"),
         "events": [e["id"] for e in wcif.get("events", [])],
         "schedule": [
             {"name": act["name"], "start": act["startTime"], "end": act["endTime"]}
@@ -228,6 +229,7 @@ def main() -> int:
     new_state: dict = {}
     new_comps: list[tuple[dict, dict]] = []
     changed_comps: list[tuple[dict, dict, list[str]]] = []
+    cancelled_comps: list[tuple[dict, dict]] = []
 
     competitions = fetch_competitions()
     print(f"Fetched {len(competitions)} competitions in Spain")
@@ -240,14 +242,25 @@ def main() -> int:
             wcif = {}
 
         view = short_view(comp, wcif)
-        new_state[comp["id"]] = view
 
-        if comp["id"] not in state:
-            new_comps.append((view, wcif))
+        if view["cancelled_at"]:
+            was_tracked_active = (
+                comp["id"] in state
+                and not state[comp["id"]].get("cancelled_at")
+            )
+            if was_tracked_active:
+                cancelled_comps.append((view, wcif))
+            # In all cancelled cases (just cancelled / discovered cancelled /
+            # already cancelled last run), drop from new_state so it stops
+            # appearing in queries and digests.
         else:
-            changed = diff_fields(state[comp["id"]], view)
-            if changed:
-                changed_comps.append((view, wcif, changed))
+            new_state[comp["id"]] = view
+            if comp["id"] not in state:
+                new_comps.append((view, wcif))
+            else:
+                changed = diff_fields(state[comp["id"]], view)
+                if changed:
+                    changed_comps.append((view, wcif, changed))
 
         time.sleep(0.3)  # polite to the API
 
@@ -272,14 +285,21 @@ def main() -> int:
             + schedule_summary(wcif)
         )
 
+    for view, _wcif in cancelled_comps:
+        telegram(
+            "🚫 <b>Competición cancelada</b>\n\n"
+            + format_competition(view)
+        )
+
     if FORCE_DIGEST and new_state:
         upcoming = sorted(new_state.values(), key=lambda c: c["start_date"])
         body = "\n\n".join(format_competition(c) for c in upcoming)
         telegram(f"📋 <b>Competiciones próximas en España</b>\n\n{body}")
-	
+
     print(
         f"OK · {len(new_state)} totales · "
-        f"{len(new_comps)} nuevas · {len(changed_comps)} cambiadas"
+        f"{len(new_comps)} nuevas · {len(changed_comps)} cambiadas · "
+        f"{len(cancelled_comps)} canceladas"
     )
     return 0
 

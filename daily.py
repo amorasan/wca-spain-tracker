@@ -116,6 +116,8 @@ def main() -> int:
     comps = load_competitions()
     opening_today = []
     for c in comps.values():
+        if c.get("cancelled_at"):
+            continue
         ro = c.get("registration_open")
         if not ro:
             continue
