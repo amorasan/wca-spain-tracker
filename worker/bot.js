@@ -39,12 +39,12 @@ async function handleCommand(msg, env) {
   const cmdLower = cmdRaw.toLowerCase().split("@")[0];
   const arg = rest.join(" ");
 
-  // Tappable commands with id appended after underscore
+  // Tappable commands with id appended after underscore — siempre por id directo
   if (cmdLower.startsWith("/horario_")) {
-    return cmdHorario(cmdRaw.split("@")[0].slice("/horario_".length), env);
+    return cmdHorarioById(cmdRaw.split("@")[0].slice("/horario_".length), env);
   }
   if (cmdLower.startsWith("/inscripcion_")) {
-    return cmdInscripcion(cmdRaw.split("@")[0].slice("/inscripcion_".length), env);
+    return cmdInscripcionById(cmdRaw.split("@")[0].slice("/inscripcion_".length), env);
   }
 
   switch (cmdLower) {
@@ -57,15 +57,18 @@ async function handleCommand(msg, env) {
     case "/proximas":
       return cmdProximas(env);
     case "/horario":
-      return arg ? cmdHorario(arg, env)
-                 : "Uso: <code>/horario &lt;competition_id&gt;</code>";
+      return arg ? cmdHorarioQuery(arg, env)
+                 : "Uso: <code>/horario &lt;id o texto&gt;</code>";
     case "/inscripcion":
-      return arg ? cmdInscripcion(arg, env)
-                 : "Uso: <code>/inscripcion &lt;competition_id&gt;</code>";
+      return arg ? cmdInscripcionQuery(arg, env)
+                 : "Uso: <code>/inscripcion &lt;id o texto&gt;</code>";
     case "/buscar":
       return arg ? cmdBuscar(arg, env)
                  : "Uso: <code>/buscar &lt;texto&gt;</code>";
     default:
+      if (cmdLower.startsWith("/") && msg.chat.type === "private") {
+        return "🤔 No reconozco ese comando.\n\n" + helpText();
+      }
       return null;
   }
 }
@@ -130,10 +133,47 @@ async function cmdProximas(env) {
   ].join("\n\n");
 }
 
-async function cmdHorario(id, env) {
+async function cmdHorarioById(id, env) {
   const state = await loadCompetitions(env);
   const c = findComp(state, id);
   if (!c) return `No encuentro <code>${escapeHtml(id)}</code>. Prueba /proximas.`;
+  return renderHorario(c);
+}
+
+async function cmdHorarioQuery(query, env) {
+  const state = await loadCompetitions(env);
+  const direct = findComp(state, query);
+  if (direct) return renderHorario(direct);
+  const hits = searchActive(state, query);
+  if (!hits.length) return "No encontré ninguna competición.";
+  if (hits.length === 1) return renderHorario(hits[0]);
+  return hits.slice(0, 15).map(c =>
+    `• <b>${escapeHtml(c.name)}</b> — ${escapeHtml(c.city)} (${c.start_date})\n` +
+    `  /horario_${c.id}`
+  ).join("\n\n");
+}
+
+async function cmdInscripcionById(id, env) {
+  const state = await loadCompetitions(env);
+  const c = findComp(state, id);
+  if (!c) return `No encuentro <code>${escapeHtml(id)}</code>. Prueba /proximas.`;
+  return renderInscripcion(c);
+}
+
+async function cmdInscripcionQuery(query, env) {
+  const state = await loadCompetitions(env);
+  const direct = findComp(state, query);
+  if (direct) return renderInscripcion(direct);
+  const hits = searchActive(state, query);
+  if (!hits.length) return "No encontré ninguna competición.";
+  if (hits.length === 1) return renderInscripcion(hits[0]);
+  return hits.slice(0, 15).map(c =>
+    `• <b>${escapeHtml(c.name)}</b> — ${escapeHtml(c.city)} (${c.start_date})\n` +
+    `  /inscripcion_${c.id}`
+  ).join("\n\n");
+}
+
+function renderHorario(c) {
   if (c.cancelled_at) {
     return [
       `<b>${escapeHtml(c.name)}</b>`,
@@ -161,10 +201,7 @@ async function cmdHorario(id, env) {
   ].join("\n");
 }
 
-async function cmdInscripcion(id, env) {
-  const state = await loadCompetitions(env);
-  const c = findComp(state, id);
-  if (!c) return `No encuentro <code>${escapeHtml(id)}</code>. Prueba /proximas.`;
+function renderInscripcion(c) {
   if (c.cancelled_at) {
     return [
       `<b>${escapeHtml(c.name)}</b>`,
@@ -187,6 +224,14 @@ async function cmdInscripcion(id, env) {
     "",
     `🔗 https://www.worldcubeassociation.org/competitions/${c.id}/register`,
   ].join("\n");
+}
+
+function searchActive(state, query) {
+  const q = query.toLowerCase();
+  return Object.values(state).filter(c =>
+    !c.cancelled_at &&
+    (c.name.toLowerCase().includes(q) || c.city.toLowerCase().includes(q))
+  );
 }
 
 async function cmdBuscar(query, env) {

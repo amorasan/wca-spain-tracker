@@ -119,7 +119,7 @@ def schedule_lines(wcif: dict) -> list[str]:
     for v in wcif.get("schedule", {}).get("venues", []):
         for room in v.get("rooms", []):
             for act in room.get("activities", []):
-                start = act["startTime"][:16].replace("T", " ")
+                start = fmt_dt_madrid(act["startTime"])
                 lines.append(f"  • {start} — {act['name']}")
     return sorted(lines)
 
