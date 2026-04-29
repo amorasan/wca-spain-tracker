@@ -654,6 +654,163 @@
       "start_date": "2026-05-09",
       "venue": "[Auditori Municipal de Canet d'en Berenguer](https://www.canetdenberenguer.es/va/pagina/auditori)"
     },
+    "CiuLaManchaOpen2026": {
+      "cancelled_at": null,
+      "city": "Ciudad Real",
+      "competitor_limit": 50,
+      "end_date": "2026-08-30",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "666",
+        "777",
+        "333bf",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "CiuLaManchaOpen2026",
+      "name": "Ciu La Mancha Open 2026",
+      "registration_close": "2026-08-18T21:59:00.000Z",
+      "registration_open": "2026-05-13T17:15:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-08-29T07:15:00Z",
+          "name": "Registro | Check-in",
+          "start": "2026-08-29T06:45:00Z"
+        },
+        {
+          "end": "2026-08-29T13:45:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors",
+          "start": "2026-08-29T13:30:00Z"
+        },
+        {
+          "end": "2026-08-29T15:35:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-08-29T14:45:00Z"
+        },
+        {
+          "end": "2026-08-30T07:50:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-08-30T07:00:00Z"
+        },
+        {
+          "end": "2026-08-29T14:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-08-29T13:45:00Z"
+        },
+        {
+          "end": "2026-08-29T18:45:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-08-29T17:55:00Z"
+        },
+        {
+          "end": "2026-08-29T13:30:00Z",
+          "name": "Comida | Lunch",
+          "start": "2026-08-29T12:00:00Z"
+        },
+        {
+          "end": "2026-08-29T12:00:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-08-29T11:15:00Z"
+        },
+        {
+          "end": "2026-08-29T11:15:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-08-29T10:15:00Z"
+        },
+        {
+          "end": "2026-08-29T16:25:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-08-29T15:35:00Z"
+        },
+        {
+          "end": "2026-08-30T10:50:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-08-30T10:35:00Z"
+        },
+        {
+          "end": "2026-08-29T17:55:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-08-29T17:15:00Z"
+        },
+        {
+          "end": "2026-08-30T10:15:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-08-30T10:00:00Z"
+        },
+        {
+          "end": "2026-08-30T10:35:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-08-30T10:15:00Z"
+        },
+        {
+          "end": "2026-08-30T10:00:00Z",
+          "name": "3x3x3 Blindfolded, Round 2",
+          "start": "2026-08-30T09:35:00Z"
+        },
+        {
+          "end": "2026-08-29T17:15:00Z",
+          "name": "Megaminx, Round 2",
+          "start": "2026-08-29T16:25:00Z"
+        },
+        {
+          "end": "2026-08-30T09:10:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-08-30T08:35:00Z"
+        },
+        {
+          "end": "2026-08-30T09:35:00Z",
+          "name": "Megaminx, Round 3",
+          "start": "2026-08-30T09:10:00Z"
+        },
+        {
+          "end": "2026-08-30T11:25:00Z",
+          "name": "Pyraminx, Round 3",
+          "start": "2026-08-30T11:10:00Z"
+        },
+        {
+          "end": "2026-08-30T11:45:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-08-30T11:25:00Z"
+        },
+        {
+          "end": "2026-08-30T12:30:00Z",
+          "name": "Premios | Awards",
+          "start": "2026-08-30T11:45:00Z"
+        },
+        {
+          "end": "2026-08-29T08:15:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-08-29T07:15:00Z"
+        },
+        {
+          "end": "2026-08-29T09:15:00Z",
+          "name": "7x7x7 Cube, Round 1",
+          "start": "2026-08-29T08:15:00Z"
+        },
+        {
+          "end": "2026-08-29T10:15:00Z",
+          "name": "6x6x6 Cube, Round 1",
+          "start": "2026-08-29T09:15:00Z"
+        },
+        {
+          "end": "2026-08-30T08:35:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-08-30T07:50:00Z"
+        },
+        {
+          "end": "2026-08-30T11:10:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-08-30T10:50:00Z"
+        }
+      ],
+      "start_date": "2026-08-29",
+      "venue": "[Espacio Joven](https://www.espaciojovencr.es)"
+    },
     "GANCubingVic2026": {
       "cancelled_at": null,
       "city": "Vic",
@@ -3141,5 +3298,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-04-29T17:39:25.385373Z"
+  "updated_at": "2026-04-29T19:26:20.592381Z"
 }
