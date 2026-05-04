@@ -24,6 +24,8 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 API = "https://www.worldcubeassociation.org/api/v0"
 DATA_FILE = Path("data/competitions.json")
@@ -39,6 +41,14 @@ SESSION.headers.update({
     "User-Agent": "wca-spain-tracker/1.0 (personal monitor)",
     "Accept": "application/json",
 })
+SESSION.mount("https://", HTTPAdapter(max_retries=Retry(
+    total=3,
+    connect=3,
+    read=3,
+    backoff_factor=2,
+    status_forcelist=[500, 502, 503, 504],
+    allowed_methods=["GET"],
+)))
 
 
 # --------------------------- Telegram ---------------------------
@@ -310,7 +320,7 @@ if __name__ == "__main__":
     except Exception as e:  # noqa: BLE001
         # Notify failures so silent breakage does not happen
         try:
-            telegram(f"⚠️ <b>Fallo en el sync de WCA</b>\n<code>{e}</code>")
+            _send_one(CHAT_ID, f"⚠️ <b>Fallo en el sync de WCA</b>\n<code>{e}</code>")
         except Exception:
             pass
         raise
