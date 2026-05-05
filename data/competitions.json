@@ -654,6 +654,131 @@
       "start_date": "2026-05-09",
       "venue": "[Auditori Municipal de Canet d'en Berenguer](https://www.canetdenberenguer.es/va/pagina/auditori)"
     },
+    "CintruenigoOpen2026": {
+      "cancelled_at": null,
+      "city": "Cintruénigo",
+      "competitor_limit": 60,
+      "end_date": "2026-06-28",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333bf",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "CintruenigoOpen2026",
+      "name": "Cintruenigo Open 2026",
+      "registration_close": "2026-06-18T16:00:00.000Z",
+      "registration_open": "2026-05-07T17:30:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-06-27T10:15:00Z",
+          "name": "Registro",
+          "start": "2026-06-27T09:30:00Z"
+        },
+        {
+          "end": "2026-06-27T10:15:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-06-27T09:55:00Z"
+        },
+        {
+          "end": "2026-06-27T11:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-06-27T10:15:00Z"
+        },
+        {
+          "end": "2026-06-27T14:00:00Z",
+          "name": "Comida y Piscina",
+          "start": "2026-06-27T11:45:00Z"
+        },
+        {
+          "end": "2026-06-27T14:50:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-06-27T14:00:00Z"
+        },
+        {
+          "end": "2026-06-27T15:40:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-06-27T14:50:00Z"
+        },
+        {
+          "end": "2026-06-27T16:35:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-06-27T15:40:00Z"
+        },
+        {
+          "end": "2026-06-27T17:15:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-06-27T16:35:00Z"
+        },
+        {
+          "end": "2026-06-28T08:15:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-06-28T07:30:00Z"
+        },
+        {
+          "end": "2026-06-28T11:30:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-06-28T10:30:00Z"
+        },
+        {
+          "end": "2026-06-28T09:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-06-28T08:15:00Z"
+        },
+        {
+          "end": "2026-06-28T09:30:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-06-28T09:00:00Z"
+        },
+        {
+          "end": "2026-06-28T10:30:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-06-28T09:30:00Z"
+        },
+        {
+          "end": "2026-06-27T18:00:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-06-27T17:15:00Z"
+        },
+        {
+          "end": "2026-06-28T13:00:00Z",
+          "name": "Comida y Piscina",
+          "start": "2026-06-28T11:30:00Z"
+        },
+        {
+          "end": "2026-06-28T13:20:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-06-28T13:00:00Z"
+        },
+        {
+          "end": "2026-06-28T13:40:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-06-28T13:20:00Z"
+        },
+        {
+          "end": "2026-06-28T14:00:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-06-28T13:40:00Z"
+        },
+        {
+          "end": "2026-06-28T14:20:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-06-28T14:00:00Z"
+        },
+        {
+          "end": "2026-06-28T15:30:00Z",
+          "name": "Premios",
+          "start": "2026-06-28T14:20:00Z"
+        }
+      ],
+      "start_date": "2026-06-27",
+      "venue": "Complejo deportivo Municipal de Cintruenigo"
+    },
     "CiuLaManchaOpen2026": {
       "cancelled_at": null,
       "city": "Ciudad Real",
@@ -3611,5 +3736,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-05-04T23:54:11.979134Z"
+  "updated_at": "2026-05-05T02:44:51.725056Z"
 }
