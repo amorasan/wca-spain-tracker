@@ -3526,6 +3526,145 @@
       "start_date": "2026-05-23",
       "venue": "[Casa del Alumno UPV](https://casadelalumno.blogs.upv.es/)"
     },
+    "ValdepenasOpen2026": {
+      "cancelled_at": null,
+      "city": "Valdepeñas, Ciudad Real",
+      "competitor_limit": 75,
+      "end_date": "2026-06-14",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333bf",
+        "clock",
+        "pyram",
+        "skewb",
+        "444bf"
+      ],
+      "id": "ValdepenasOpen2026",
+      "name": "Valdepeñas Open 2026",
+      "registration_close": "2026-06-05T21:59:00.000Z",
+      "registration_open": "2026-05-08T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-06-13T17:25:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-06-13T15:55:00Z"
+        },
+        {
+          "end": "2026-06-13T08:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-06-13T07:00:00Z"
+        },
+        {
+          "end": "2026-06-13T12:15:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-06-13T11:15:00Z"
+        },
+        {
+          "end": "2026-06-13T09:15:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-06-13T08:15:00Z"
+        },
+        {
+          "end": "2026-06-13T10:15:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-06-13T09:15:00Z"
+        },
+        {
+          "end": "2026-06-14T11:45:00Z",
+          "name": "3x3x3 Blindfolded, Round 3",
+          "start": "2026-06-14T11:25:00Z"
+        },
+        {
+          "end": "2026-06-14T11:05:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-06-14T10:45:00Z"
+        },
+        {
+          "end": "2026-06-14T11:25:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-06-14T11:05:00Z"
+        },
+        {
+          "end": "2026-06-14T10:05:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-06-14T09:35:00Z"
+        },
+        {
+          "end": "2026-06-13T11:15:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-06-13T10:15:00Z"
+        },
+        {
+          "end": "2026-06-13T15:55:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-06-13T14:45:00Z"
+        },
+        {
+          "end": "2026-06-13T17:25:00Z",
+          "name": "3x3x3 Blindfolded, Round 2",
+          "start": "2026-06-13T15:55:00Z"
+        },
+        {
+          "end": "2026-06-14T09:35:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-06-14T09:10:00Z"
+        },
+        {
+          "end": "2026-06-14T10:45:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-06-14T10:25:00Z"
+        },
+        {
+          "end": "2026-06-14T10:25:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-06-14T10:05:00Z"
+        },
+        {
+          "end": "2026-06-13T14:45:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-06-13T13:45:00Z"
+        },
+        {
+          "end": "2026-06-14T09:10:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-06-14T08:15:00Z"
+        },
+        {
+          "end": "2026-06-14T08:15:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2026-06-14T07:30:00Z"
+        },
+        {
+          "end": "2026-06-13T13:45:00Z",
+          "name": "Comida",
+          "start": "2026-06-13T12:15:00Z"
+        },
+        {
+          "end": "2026-06-14T12:00:00Z",
+          "name": "Desmontaje",
+          "start": "2026-06-14T11:45:00Z"
+        },
+        {
+          "end": "2026-06-14T12:20:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-06-14T12:00:00Z"
+        },
+        {
+          "end": "2026-06-13T07:00:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-06-13T06:40:00Z"
+        },
+        {
+          "end": "2026-06-13T07:00:00Z",
+          "name": "Registro",
+          "start": "2026-06-13T06:30:00Z"
+        }
+      ],
+      "start_date": "2026-06-13",
+      "venue": "[Museo del Vino](https://turismo.valdepenas.es/museos/museo-del-vino/)"
+    },
     "VigoOpen2026": {
       "cancelled_at": null,
       "city": "Vigo, Galicia",
@@ -3741,5 +3880,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-05-05T17:24:37.275366Z"
+  "updated_at": "2026-05-05T19:23:56.692089Z"
 }
