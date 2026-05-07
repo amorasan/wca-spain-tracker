@@ -654,6 +654,16 @@
           "end": "2026-05-10T10:45:00Z",
           "name": "5x5x5 Cube, Round 2",
           "start": "2026-05-10T10:15:00Z"
+        },
+        {
+          "end": "2026-05-09T07:00:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-05-09T06:40:00Z"
+        },
+        {
+          "end": "2026-05-09T06:30:00Z",
+          "name": "Montaje",
+          "start": "2026-05-09T05:45:00Z"
         }
       ],
       "start_date": "2026-05-09",
@@ -3875,5 +3885,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-05-07T06:11:47.713556Z"
+  "updated_at": "2026-05-07T09:32:43.541130Z"
 }
