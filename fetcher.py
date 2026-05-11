@@ -170,6 +170,10 @@ def diff_fields(old: dict, new: dict) -> list[str]:
     keys = set(old) | set(new)
     return sorted(k for k in keys if old.get(k) != new.get(k))
 
+# Cambios que sí merecen notificación de "actualizada".
+# Las cancelaciones ya van por su propio canal (cancelled_comps).
+NOTIFY_FIELDS = {"registration_open", "registration_close", "start_date", "end_date"}
+
 MADRID = ZoneInfo("Europe/Madrid")
 
 def fmt_dt_madrid(iso: str | None) -> str:
@@ -269,8 +273,9 @@ def main() -> int:
                 new_comps.append((view, wcif))
             else:
                 changed = diff_fields(state[comp["id"]], view)
-                if changed:
-                    changed_comps.append((view, wcif, changed))
+                notable = [k for k in changed if k in NOTIFY_FIELDS]
+                if notable:
+                    changed_comps.append((view, wcif, notable))
 
         time.sleep(0.3)  # polite to the API
 
