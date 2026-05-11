@@ -2138,7 +2138,7 @@
     },
     "RutaCuberaVilarealOpen2026": {
       "cancelled_at": null,
-      "city": "Vilareal",
+      "city": "Vila-real",
       "competitor_limit": 65,
       "end_date": "2026-06-21",
       "events": [
@@ -2154,7 +2154,7 @@
         "sq1"
       ],
       "id": "RutaCuberaVilarealOpen2026",
-      "name": "Ruta Cubera: Vilareal Open 2026",
+      "name": "Ruta Cubera: Vila-real Open 2026",
       "registration_close": "2026-06-12T21:59:00.000Z",
       "registration_open": "2026-05-07T17:00:00.000Z",
       "schedule": [
@@ -3572,5 +3572,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-05-11T17:25:10.970383Z"
+  "updated_at": "2026-05-11T19:47:33.621111Z"
 }
