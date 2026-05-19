@@ -3095,7 +3095,7 @@
       "schedule": [
         {
           "end": "2026-05-23T08:00:00Z",
-          "name": "Registro",
+          "name": "Registro - Registro in situ",
           "start": "2026-05-23T07:30:00Z"
         },
         {
@@ -3198,5 +3198,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-05-19T16:20:24.521878Z"
+  "updated_at": "2026-05-19T19:00:44.025954Z"
 }
