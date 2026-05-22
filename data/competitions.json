@@ -1903,6 +1903,159 @@
       "start_date": "2026-08-08",
       "venue": "Iglesia de San Alberto"
     },
+    "ParlaOpen2026": {
+      "cancelled_at": null,
+      "city": "Parla, Madrid",
+      "competitor_limit": 125,
+      "end_date": "2026-07-05",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333bf",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "444bf",
+        "555bf",
+        "333mbf"
+      ],
+      "id": "ParlaOpen2026",
+      "name": "Parla Open 2026",
+      "registration_close": "2026-06-28T21:59:00.000Z",
+      "registration_open": "2026-05-25T18:02:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-07-04T07:30:00Z",
+          "name": "Registro | Check-in",
+          "start": "2026-07-04T07:00:00Z"
+        },
+        {
+          "end": "2026-07-04T07:30:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors",
+          "start": "2026-07-04T07:15:00Z"
+        },
+        {
+          "end": "2026-07-04T08:30:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-07-04T07:30:00Z"
+        },
+        {
+          "end": "2026-07-04T10:00:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-07-04T08:30:00Z"
+        },
+        {
+          "end": "2026-07-04T13:00:00Z",
+          "name": "Comida | Lunch",
+          "start": "2026-07-04T11:30:00Z"
+        },
+        {
+          "end": "2026-07-04T14:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-07-04T13:00:00Z"
+        },
+        {
+          "end": "2026-07-05T11:30:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-07-05T10:30:00Z"
+        },
+        {
+          "end": "2026-07-04T16:15:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-07-04T15:15:00Z"
+        },
+        {
+          "end": "2026-07-04T11:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-07-04T10:00:00Z"
+        },
+        {
+          "end": "2026-07-04T17:30:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-07-04T16:15:00Z"
+        },
+        {
+          "end": "2026-07-04T18:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-07-04T17:30:00Z"
+        },
+        {
+          "end": "2026-07-05T08:45:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-07-05T07:00:00Z"
+        },
+        {
+          "end": "2026-07-05T10:15:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-07-05T08:45:00Z"
+        },
+        {
+          "end": "2026-07-04T15:00:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-07-04T14:45:00Z"
+        },
+        {
+          "end": "2026-07-05T10:30:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-07-05T10:15:00Z"
+        },
+        {
+          "end": "2026-07-04T15:15:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-07-04T15:00:00Z"
+        },
+        {
+          "end": "2026-07-05T13:00:00Z",
+          "name": "Comida | Lunch",
+          "start": "2026-07-05T11:30:00Z"
+        },
+        {
+          "end": "2026-07-05T14:15:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-07-05T13:00:00Z"
+        },
+        {
+          "end": "2026-07-05T14:45:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-07-05T14:15:00Z"
+        },
+        {
+          "end": "2026-07-05T15:00:00Z",
+          "name": "3x3x3 Cube, Round 4",
+          "start": "2026-07-05T14:45:00Z"
+        },
+        {
+          "end": "2026-07-05T16:00:00Z",
+          "name": "Entrega de premios | Awards",
+          "start": "2026-07-05T15:00:00Z"
+        },
+        {
+          "end": "2026-07-04T17:00:00Z",
+          "name": "5x5x5 Blindfolded, Round 1",
+          "start": "2026-07-04T15:45:00Z"
+        },
+        {
+          "end": "2026-07-04T08:00:00Z",
+          "name": "Entrega de cubos de Multi-Blind | Cube submission for 3x3x3 Multi-Blind",
+          "start": "2026-07-04T07:30:00Z"
+        },
+        {
+          "end": "2026-07-04T10:15:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
+          "start": "2026-07-04T09:00:00Z"
+        },
+        {
+          "end": "2026-07-05T09:30:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2026-07-05T08:30:00Z"
+        }
+      ],
+      "start_date": "2026-07-04",
+      "venue": "[Casa de la Juventud](https://www.lacasajoven.com/)"
+    },
     "RutaCuberaVilarealOpen2026": {
       "cancelled_at": null,
       "city": "Vila-real",
@@ -3198,5 +3351,5 @@
       "venue": "X-Madrid"
     }
   },
-  "updated_at": "2026-05-22T21:09:48.594119Z"
+  "updated_at": "2026-05-22T22:59:01.215368Z"
 }
