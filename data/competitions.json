@@ -395,6 +395,109 @@
       "start_date": "2026-08-12",
       "venue": "La Perrera"
     },
+    "CayroToledoOpen2026": {
+      "cancelled_at": null,
+      "city": "Toledo",
+      "competitor_limit": 50,
+      "end_date": "2026-06-27",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333oh",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "CayroToledoOpen2026",
+      "name": "Cayro Toledo Open 2026",
+      "registration_close": "2026-06-21T21:59:00.000Z",
+      "registration_open": "2026-06-01T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-06-27T08:30:00Z",
+          "name": "Check-in",
+          "start": "2026-06-27T08:00:00Z"
+        },
+        {
+          "end": "2026-06-27T08:25:00Z",
+          "name": "Tutorial for new competitors",
+          "start": "2026-06-27T08:05:00Z"
+        },
+        {
+          "end": "2026-06-27T09:25:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-06-27T08:30:00Z"
+        },
+        {
+          "end": "2026-06-27T16:45:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-06-27T16:30:00Z"
+        },
+        {
+          "end": "2026-06-27T17:05:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-06-27T16:45:00Z"
+        },
+        {
+          "end": "2026-06-27T13:20:00Z",
+          "name": "Lunch",
+          "start": "2026-06-27T12:00:00Z"
+        },
+        {
+          "end": "2026-06-27T11:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-06-27T10:05:00Z"
+        },
+        {
+          "end": "2026-06-27T12:00:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-06-27T11:15:00Z"
+        },
+        {
+          "end": "2026-06-27T10:05:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-06-27T09:25:00Z"
+        },
+        {
+          "end": "2026-06-27T14:05:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-06-27T13:20:00Z"
+        },
+        {
+          "end": "2026-06-27T14:55:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-06-27T14:05:00Z"
+        },
+        {
+          "end": "2026-06-27T15:50:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-06-27T14:55:00Z"
+        },
+        {
+          "end": "2026-06-27T16:10:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-06-27T15:50:00Z"
+        },
+        {
+          "end": "2026-06-27T16:30:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-06-27T16:10:00Z"
+        },
+        {
+          "end": "2026-06-27T17:20:00Z",
+          "name": "Teardown",
+          "start": "2026-06-27T17:05:00Z"
+        },
+        {
+          "end": "2026-06-27T17:45:00Z",
+          "name": "Awards",
+          "start": "2026-06-27T17:20:00Z"
+        }
+      ],
+      "start_date": "2026-06-27",
+      "venue": "[Palacio de Congresos de Toledo \"El Greco\"](https://www.pctoledo.es/)"
+    },
     "CintruenigoOpen2026": {
       "cancelled_at": null,
       "city": "Cintruénigo",
@@ -2657,5 +2760,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-05-27T23:18:21.733848Z"
+  "updated_at": "2026-05-28T03:36:33.035632Z"
 }
