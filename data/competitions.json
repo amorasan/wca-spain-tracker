@@ -780,97 +780,6 @@
       "start_date": "2026-08-29",
       "venue": "[Espacio Joven](https://www.espaciojovencr.es)"
     },
-    "GaresOpen2026": {
-      "cancelled_at": null,
-      "city": "Gares - Puente La Reina",
-      "competitor_limit": 50,
-      "end_date": "2026-05-30",
-      "events": [
-        "333",
-        "222",
-        "minx",
-        "pyram",
-        "skewb"
-      ],
-      "id": "GaresOpen2026",
-      "name": "Gares Open 2026",
-      "registration_close": "2026-05-22T18:00:00.000Z",
-      "registration_open": "2026-04-02T16:00:00.000Z",
-      "schedule": [
-        {
-          "end": "2026-05-30T08:00:00Z",
-          "name": "Registro",
-          "start": "2026-05-30T07:30:00Z"
-        },
-        {
-          "end": "2026-05-30T08:00:00Z",
-          "name": "Tutorial para nuevos competidores",
-          "start": "2026-05-30T07:40:00Z"
-        },
-        {
-          "end": "2026-05-30T09:20:00Z",
-          "name": "3x3x3 Cube, Round 1",
-          "start": "2026-05-30T08:00:00Z"
-        },
-        {
-          "end": "2026-05-30T10:15:00Z",
-          "name": "Megaminx, Round 1",
-          "start": "2026-05-30T09:20:00Z"
-        },
-        {
-          "end": "2026-05-30T11:00:00Z",
-          "name": "Skewb, Round 1",
-          "start": "2026-05-30T10:15:00Z"
-        },
-        {
-          "end": "2026-05-30T12:30:00Z",
-          "name": "Comida",
-          "start": "2026-05-30T11:00:00Z"
-        },
-        {
-          "end": "2026-05-30T13:20:00Z",
-          "name": "Pyraminx, Round 1",
-          "start": "2026-05-30T12:30:00Z"
-        },
-        {
-          "end": "2026-05-30T14:05:00Z",
-          "name": "2x2x2 Cube, Round 1",
-          "start": "2026-05-30T13:20:00Z"
-        },
-        {
-          "end": "2026-05-30T15:15:00Z",
-          "name": "Pyraminx, Round 2",
-          "start": "2026-05-30T14:55:00Z"
-        },
-        {
-          "end": "2026-05-30T14:55:00Z",
-          "name": "Skewb, Round 2",
-          "start": "2026-05-30T14:35:00Z"
-        },
-        {
-          "end": "2026-05-30T15:35:00Z",
-          "name": "2x2x2 Cube, Round 2",
-          "start": "2026-05-30T15:15:00Z"
-        },
-        {
-          "end": "2026-05-30T16:05:00Z",
-          "name": "3x3x3 Cube, Round 2",
-          "start": "2026-05-30T15:35:00Z"
-        },
-        {
-          "end": "2026-05-30T17:00:00Z",
-          "name": "Premios",
-          "start": "2026-05-30T16:05:00Z"
-        },
-        {
-          "end": "2026-05-30T14:35:00Z",
-          "name": "Megaminx, Round 2",
-          "start": "2026-05-30T14:05:00Z"
-        }
-      ],
-      "start_date": "2026-05-30",
-      "venue": "Casa del Vínculo - Información de Turismo"
-    },
     "IzarraizpeOpen2026": {
       "cancelled_at": null,
       "city": "Azpeitia, Gipuzkoa",
@@ -2760,5 +2669,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-05-30T22:04:54.701882Z"
+  "updated_at": "2026-05-31T00:00:55.050706Z"
 }
