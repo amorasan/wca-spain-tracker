@@ -2467,11 +2467,6 @@
         },
         {
           "end": "2026-06-13T08:00:00Z",
-          "name": "Tutorial para nuevos competidores",
-          "start": "2026-06-13T07:45:00Z"
-        },
-        {
-          "end": "2026-06-13T08:00:00Z",
           "name": "Registro",
           "start": "2026-06-13T07:30:00Z"
         },
@@ -2579,5 +2574,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-13T03:43:17.627276Z"
+  "updated_at": "2026-06-13T07:47:36.525694Z"
 }
