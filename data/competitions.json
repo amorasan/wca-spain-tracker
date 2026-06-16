@@ -780,6 +780,108 @@
       "start_date": "2026-08-29",
       "venue": "[Espacio Joven](https://www.espaciojovencr.es)"
     },
+    "CompostelaCubing2026": {
+      "cancelled_at": null,
+      "city": "Santiago de Compostela, Galicia",
+      "competitor_limit": 60,
+      "end_date": "2026-09-05",
+      "events": [
+        "333",
+        "222",
+        "333oh",
+        "clock",
+        "pyram",
+        "skewb"
+      ],
+      "id": "CompostelaCubing2026",
+      "name": "Compostela Cubing 2026",
+      "registration_close": "2026-08-21T18:00:00.000Z",
+      "registration_open": "2026-07-11T19:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-09-05T08:45:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-09-05T07:45:00Z"
+        },
+        {
+          "end": "2026-09-05T09:45:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-09-05T08:45:00Z"
+        },
+        {
+          "end": "2026-09-05T15:30:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-09-05T14:30:00Z"
+        },
+        {
+          "end": "2026-09-05T10:45:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-09-05T09:45:00Z"
+        },
+        {
+          "end": "2026-09-05T11:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-09-05T10:45:00Z"
+        },
+        {
+          "end": "2026-09-05T13:30:00Z",
+          "name": "Xantar | Comida | Lunch",
+          "start": "2026-09-05T11:45:00Z"
+        },
+        {
+          "end": "2026-09-05T14:30:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-09-05T13:30:00Z"
+        },
+        {
+          "end": "2026-09-05T15:50:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-09-05T15:30:00Z"
+        },
+        {
+          "end": "2026-09-05T16:15:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-09-05T15:50:00Z"
+        },
+        {
+          "end": "2026-09-05T17:15:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-09-05T16:55:00Z"
+        },
+        {
+          "end": "2026-09-05T16:35:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-09-05T16:15:00Z"
+        },
+        {
+          "end": "2026-09-05T16:55:00Z",
+          "name": "3x3x3 One-Handed, Round 2",
+          "start": "2026-09-05T16:35:00Z"
+        },
+        {
+          "end": "2026-09-05T17:35:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-09-05T17:15:00Z"
+        },
+        {
+          "end": "2026-09-05T18:15:00Z",
+          "name": "Entrega de premios e sorteo | Awards and lucky draw",
+          "start": "2026-09-05T17:35:00Z"
+        },
+        {
+          "end": "2026-09-05T07:45:00Z",
+          "name": "Tutorial para novos competidores",
+          "start": "2026-09-05T07:30:00Z"
+        },
+        {
+          "end": "2026-09-05T07:45:00Z",
+          "name": "Check-in",
+          "start": "2026-09-05T07:15:00Z"
+        }
+      ],
+      "start_date": "2026-09-05",
+      "venue": "Centro Sociocultural Santa Marta"
+    },
     "IzarraizpeOpen2026": {
       "cancelled_at": null,
       "city": "Azpeitia, Gipuzkoa",
@@ -2430,5 +2532,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-16T10:06:49.646696Z"
+  "updated_at": "2026-06-16T15:53:13.536007Z"
 }
