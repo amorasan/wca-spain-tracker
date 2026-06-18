@@ -1361,6 +1361,124 @@
       "start_date": "2026-07-25",
       "venue": "Sala Palmanova"
     },
+    "NerjaChanqueteOpen2026": {
+      "cancelled_at": null,
+      "city": "Nerja, Málaga",
+      "competitor_limit": 100,
+      "end_date": "2026-09-13",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "clock",
+        "pyram",
+        "skewb"
+      ],
+      "id": "NerjaChanqueteOpen2026",
+      "name": "Nerja Chanquete Open 2026",
+      "registration_close": "2026-09-04T21:59:00.000Z",
+      "registration_open": "2026-06-21T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-09-12T08:10:00Z",
+          "name": "Registro",
+          "start": "2026-09-12T07:30:00Z"
+        },
+        {
+          "end": "2026-09-12T14:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-09-12T13:15:00Z"
+        },
+        {
+          "end": "2026-09-12T11:45:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-09-12T10:30:00Z"
+        },
+        {
+          "end": "2026-09-12T09:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-09-12T08:10:00Z"
+        },
+        {
+          "end": "2026-09-12T13:15:00Z",
+          "name": "Comida",
+          "start": "2026-09-12T11:45:00Z"
+        },
+        {
+          "end": "2026-09-12T15:55:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-09-12T14:45:00Z"
+        },
+        {
+          "end": "2026-09-12T17:15:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-09-12T15:55:00Z"
+        },
+        {
+          "end": "2026-09-12T18:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-09-12T17:15:00Z"
+        },
+        {
+          "end": "2026-09-12T10:30:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-09-12T09:30:00Z"
+        },
+        {
+          "end": "2026-09-13T09:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-09-13T08:00:00Z"
+        },
+        {
+          "end": "2026-09-13T09:40:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-09-13T09:00:00Z"
+        },
+        {
+          "end": "2026-09-13T10:45:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-09-13T10:25:00Z"
+        },
+        {
+          "end": "2026-09-13T10:25:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-09-13T10:00:00Z"
+        },
+        {
+          "end": "2026-09-13T10:00:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-09-13T09:40:00Z"
+        },
+        {
+          "end": "2026-09-13T11:05:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-09-13T10:45:00Z"
+        },
+        {
+          "end": "2026-09-13T11:25:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-09-13T11:05:00Z"
+        },
+        {
+          "end": "2026-09-13T11:45:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2026-09-13T11:25:00Z"
+        },
+        {
+          "end": "2026-09-12T08:10:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-09-12T07:50:00Z"
+        },
+        {
+          "end": "2026-09-13T12:20:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-09-13T11:45:00Z"
+        }
+      ],
+      "start_date": "2026-09-12",
+      "venue": "Hotel Rural Almazara"
+    },
     "NoVeasOcana2026": {
       "cancelled_at": null,
       "city": "Ocaña, Toledo",
@@ -2532,5 +2650,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-18T12:26:54.007110Z"
+  "updated_at": "2026-06-18T16:32:15.343426Z"
 }
