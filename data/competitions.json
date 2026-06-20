@@ -2120,19 +2120,19 @@
           "start": "2026-06-21T13:40:00Z"
         },
         {
-          "end": "2026-06-21T14:30:00Z",
+          "end": "2026-06-21T14:20:00Z",
           "name": "3x3x3 Blindfolded, Round 2",
           "start": "2026-06-21T14:00:00Z"
         },
         {
-          "end": "2026-06-21T15:00:00Z",
+          "end": "2026-06-21T14:40:00Z",
           "name": "3x3x3 Cube, Round 3",
-          "start": "2026-06-21T14:30:00Z"
+          "start": "2026-06-21T14:20:00Z"
         },
         {
-          "end": "2026-06-21T15:30:00Z",
+          "end": "2026-06-21T15:10:00Z",
           "name": "Entrega de premios",
-          "start": "2026-06-21T15:00:00Z"
+          "start": "2026-06-21T14:40:00Z"
         }
       ],
       "start_date": "2026-06-20",
@@ -2560,6 +2560,133 @@
       "start_date": "2026-09-26",
       "venue": "Centro Cultural Tafalla Kulturgunea"
     },
+    "TioPepCubeja2026": {
+      "cancelled_at": null,
+      "city": "Muro de Alcoy",
+      "competitor_limit": 50,
+      "end_date": "2026-08-02",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "666",
+        "777"
+      ],
+      "id": "TioPepCubeja2026",
+      "name": "Tio Pep Cubeja 2026",
+      "registration_close": "2026-07-24T22:00:00.000Z",
+      "registration_open": "2026-07-01T18:30:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-08-01T08:00:00Z",
+          "name": "Registro",
+          "start": "2026-08-01T07:30:00Z"
+        },
+        {
+          "end": "2026-08-01T09:10:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-08-01T08:00:00Z"
+        },
+        {
+          "end": "2026-08-01T12:00:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-08-01T10:45:00Z"
+        },
+        {
+          "end": "2026-08-01T10:45:00Z",
+          "name": "6x6x6 Cube, Round 1",
+          "start": "2026-08-01T09:10:00Z"
+        },
+        {
+          "end": "2026-08-01T10:45:00Z",
+          "name": "7x7x7 Cube, Round 1",
+          "start": "2026-08-01T09:10:00Z"
+        },
+        {
+          "end": "2026-08-01T13:15:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-08-01T12:00:00Z"
+        },
+        {
+          "end": "2026-08-01T19:35:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-08-01T18:20:00Z"
+        },
+        {
+          "end": "2026-08-01T14:45:00Z",
+          "name": "Comida",
+          "start": "2026-08-01T13:15:00Z"
+        },
+        {
+          "end": "2026-08-02T09:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-08-02T08:00:00Z"
+        },
+        {
+          "end": "2026-08-01T17:10:00Z",
+          "name": "5x5x5 Cube, Round 2",
+          "start": "2026-08-01T16:00:00Z"
+        },
+        {
+          "end": "2026-08-01T16:00:00Z",
+          "name": "6x6x6 Cube, Round 2",
+          "start": "2026-08-01T14:45:00Z"
+        },
+        {
+          "end": "2026-08-01T16:00:00Z",
+          "name": "7x7x7 Cube, Round 2",
+          "start": "2026-08-01T14:45:00Z"
+        },
+        {
+          "end": "2026-08-01T18:20:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-08-01T17:10:00Z"
+        },
+        {
+          "end": "2026-08-02T10:00:00Z",
+          "name": "5x5x5 Cube, Round 3",
+          "start": "2026-08-02T09:30:00Z"
+        },
+        {
+          "end": "2026-08-02T09:30:00Z",
+          "name": "6x6x6 Cube, Round 3",
+          "start": "2026-08-02T09:00:00Z"
+        },
+        {
+          "end": "2026-08-02T09:30:00Z",
+          "name": "7x7x7 Cube, Round 3",
+          "start": "2026-08-02T09:00:00Z"
+        },
+        {
+          "end": "2026-08-02T11:00:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-08-02T10:00:00Z"
+        },
+        {
+          "end": "2026-08-02T11:30:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-08-02T11:00:00Z"
+        },
+        {
+          "end": "2026-08-02T12:00:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-08-02T11:30:00Z"
+        },
+        {
+          "end": "2026-08-02T12:30:00Z",
+          "name": "4x4x4 Cube, Round 3",
+          "start": "2026-08-02T12:00:00Z"
+        },
+        {
+          "end": "2026-08-02T13:00:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-08-02T12:30:00Z"
+        }
+      ],
+      "start_date": "2026-08-01",
+      "venue": "Arxiu Municipal"
+    },
     "VigoOpen2026": {
       "cancelled_at": null,
       "city": "Vigo, Galicia",
@@ -2650,5 +2777,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-20T14:03:32.933628Z"
+  "updated_at": "2026-06-20T16:17:58.654337Z"
 }
