@@ -1764,6 +1764,140 @@
       "start_date": "2026-07-04",
       "venue": "[Casa de la Juventud](https://www.lacasajoven.com/)"
     },
+    "PonienteAlmerienseOpen2026": {
+      "cancelled_at": null,
+      "city": "El Ejido, Almería",
+      "competitor_limit": 64,
+      "end_date": "2026-10-11",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "PonienteAlmerienseOpen2026",
+      "name": "Poniente Almeriense Open 2026",
+      "registration_close": "2026-10-02T21:59:00.000Z",
+      "registration_open": "2026-06-26T17:30:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-10T07:15:00Z",
+          "name": "Check-in / Registro in situ",
+          "start": "2026-10-10T06:30:00Z"
+        },
+        {
+          "end": "2026-10-10T08:30:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-10T07:15:00Z"
+        },
+        {
+          "end": "2026-10-10T09:35:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-10-10T08:30:00Z"
+        },
+        {
+          "end": "2026-10-10T10:50:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-10T09:35:00Z"
+        },
+        {
+          "end": "2026-10-10T11:50:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-10-10T10:50:00Z"
+        },
+        {
+          "end": "2026-10-10T13:45:00Z",
+          "name": "Lunch",
+          "start": "2026-10-10T11:50:00Z"
+        },
+        {
+          "end": "2026-10-10T14:45:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-10T13:45:00Z"
+        },
+        {
+          "end": "2026-10-10T15:45:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-10-10T14:45:00Z"
+        },
+        {
+          "end": "2026-10-10T16:45:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-10-10T15:45:00Z"
+        },
+        {
+          "end": "2026-10-11T07:35:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-10-11T07:00:00Z"
+        },
+        {
+          "end": "2026-10-10T17:45:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-10-10T16:45:00Z"
+        },
+        {
+          "end": "2026-10-11T08:10:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-10-11T07:35:00Z"
+        },
+        {
+          "end": "2026-10-11T08:35:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-10-11T08:10:00Z"
+        },
+        {
+          "end": "2026-10-11T09:40:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-10-11T09:20:00Z"
+        },
+        {
+          "end": "2026-10-11T10:00:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-10-11T09:40:00Z"
+        },
+        {
+          "end": "2026-10-11T10:20:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-10-11T10:00:00Z"
+        },
+        {
+          "end": "2026-10-11T10:40:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-10-11T10:20:00Z"
+        },
+        {
+          "end": "2026-10-11T11:00:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-10-11T10:40:00Z"
+        },
+        {
+          "end": "2026-10-11T09:20:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-10-11T09:00:00Z"
+        },
+        {
+          "end": "2026-10-11T09:00:00Z",
+          "name": "Megaminx, Round 2",
+          "start": "2026-10-11T08:35:00Z"
+        },
+        {
+          "end": "2026-10-11T11:45:00Z",
+          "name": "Awards",
+          "start": "2026-10-11T11:00:00Z"
+        },
+        {
+          "end": "2026-10-10T07:15:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-10T06:50:00Z"
+        }
+      ],
+      "start_date": "2026-10-10",
+      "venue": "[Círculo Cultural y Recreativo de El Ejido](https://circuloculturalejido.com/instalaciones/)"
+    },
     "SpanishChampionship2026": {
       "cancelled_at": null,
       "city": "Barakaldo, Bizkaia",
@@ -2403,5 +2537,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-22T04:14:32.579664Z"
+  "updated_at": "2026-06-22T10:37:36.155322Z"
 }
