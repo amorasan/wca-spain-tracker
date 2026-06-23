@@ -1001,6 +1001,157 @@
       "start_date": "2026-09-05",
       "venue": "Centro Sociocultural Santa Marta"
     },
+    "ElTormesOpen2026": {
+      "cancelled_at": null,
+      "city": "Santa Marta de Tormes, Salamanca",
+      "competitor_limit": 80,
+      "end_date": "2026-10-25",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333bf",
+        "333oh",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "ElTormesOpen2026",
+      "name": "El Tormes Open 2026",
+      "registration_close": "2026-10-17T21:59:00.000Z",
+      "registration_open": "2026-07-24T17:15:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-24T11:45:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-24T10:45:00Z"
+        },
+        {
+          "end": "2026-10-24T08:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-24T07:30:00Z"
+        },
+        {
+          "end": "2026-10-24T09:50:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-10-24T08:45:00Z"
+        },
+        {
+          "end": "2026-10-24T10:45:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-10-24T09:50:00Z"
+        },
+        {
+          "end": "2026-10-24T15:45:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-10-24T15:05:00Z"
+        },
+        {
+          "end": "2026-10-24T16:25:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-24T15:45:00Z"
+        },
+        {
+          "end": "2026-10-24T17:10:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-10-24T16:25:00Z"
+        },
+        {
+          "end": "2026-10-24T14:10:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-10-24T13:30:00Z"
+        },
+        {
+          "end": "2026-10-24T17:30:00Z",
+          "name": "3x3x3 One-Handed, Round 2",
+          "start": "2026-10-24T17:10:00Z"
+        },
+        {
+          "end": "2026-10-24T15:05:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-10-24T14:10:00Z"
+        },
+        {
+          "end": "2026-10-25T09:35:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-10-25T09:10:00Z"
+        },
+        {
+          "end": "2026-10-24T17:50:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-10-24T17:30:00Z"
+        },
+        {
+          "end": "2026-10-24T18:15:00Z",
+          "name": "Megaminx, Round 2",
+          "start": "2026-10-24T17:50:00Z"
+        },
+        {
+          "end": "2026-10-25T08:50:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-10-25T08:00:00Z"
+        },
+        {
+          "end": "2026-10-25T10:35:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-10-25T09:35:00Z"
+        },
+        {
+          "end": "2026-10-24T19:15:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-10-24T18:15:00Z"
+        },
+        {
+          "end": "2026-10-25T09:10:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-10-25T08:50:00Z"
+        },
+        {
+          "end": "2026-10-25T10:55:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-10-25T10:35:00Z"
+        },
+        {
+          "end": "2026-10-25T11:15:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-10-25T10:55:00Z"
+        },
+        {
+          "end": "2026-10-25T11:35:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-10-25T11:15:00Z"
+        },
+        {
+          "end": "2026-10-25T12:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-10-25T11:35:00Z"
+        },
+        {
+          "end": "2026-10-24T07:30:00Z",
+          "name": "Registro",
+          "start": "2026-10-24T07:00:00Z"
+        },
+        {
+          "end": "2026-10-24T07:30:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-24T07:15:00Z"
+        },
+        {
+          "end": "2026-10-24T13:30:00Z",
+          "name": "Comida",
+          "start": "2026-10-24T11:45:00Z"
+        },
+        {
+          "end": "2026-10-25T12:45:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-10-25T12:00:00Z"
+        }
+      ],
+      "start_date": "2026-10-24",
+      "venue": "[Centro Comercial el Tormes](https://www.eltormes.com/)"
+    },
     "IzarraizpeOpen2026": {
       "cancelled_at": null,
       "city": "Azpeitia, Gipuzkoa",
@@ -2656,5 +2807,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-23T15:47:59.712001Z"
+  "updated_at": "2026-06-23T17:55:05.479117Z"
 }
