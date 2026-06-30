@@ -1793,11 +1793,6 @@
           "start": "2026-07-04T17:30:00Z"
         },
         {
-          "end": "2026-07-04T08:00:00Z",
-          "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
-          "start": "2026-07-04T07:30:00Z"
-        },
-        {
           "end": "2026-07-05T09:30:00Z",
           "name": "5x5x5 Blindfolded, Round 1",
           "start": "2026-07-05T08:15:00Z"
@@ -2594,5 +2589,5 @@
       "venue": "https://vialiavigo.com/"
     }
   },
-  "updated_at": "2026-06-30T15:28:12.162009Z"
+  "updated_at": "2026-06-30T17:53:35.116303Z"
 }
