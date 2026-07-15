@@ -2408,6 +2408,152 @@
       "start_date": "2026-08-01",
       "venue": "Arxiu Municipal"
     },
+    "TorrentLaTorreOpen2026": {
+      "cancelled_at": null,
+      "city": "Torrent, Valencia",
+      "competitor_limit": 70,
+      "end_date": "2026-08-30",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333bf",
+        "333oh",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "TorrentLaTorreOpen2026",
+      "name": "Torrent: La Torre Open 2026",
+      "registration_close": "2026-08-23T21:59:00.000Z",
+      "registration_open": "2026-07-27T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-08-29T08:15:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-08-29T07:00:00Z"
+        },
+        {
+          "end": "2026-08-29T15:30:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-08-29T14:15:00Z"
+        },
+        {
+          "end": "2026-08-29T09:30:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-08-29T08:15:00Z"
+        },
+        {
+          "end": "2026-08-30T09:05:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-08-30T08:10:00Z"
+        },
+        {
+          "end": "2026-08-29T14:15:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-08-29T13:15:00Z"
+        },
+        {
+          "end": "2026-08-29T07:00:00Z",
+          "name": "Registro in situ",
+          "start": "2026-08-29T06:30:00Z"
+        },
+        {
+          "end": "2026-08-29T07:00:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-08-29T06:40:00Z"
+        },
+        {
+          "end": "2026-08-29T06:30:00Z",
+          "name": "Montaje",
+          "start": "2026-08-29T05:30:00Z"
+        },
+        {
+          "end": "2026-08-29T10:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-08-29T09:30:00Z"
+        },
+        {
+          "end": "2026-08-29T13:15:00Z",
+          "name": "Comida",
+          "start": "2026-08-29T11:30:00Z"
+        },
+        {
+          "end": "2026-08-30T11:20:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-08-30T10:20:00Z"
+        },
+        {
+          "end": "2026-08-29T11:30:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-08-29T10:45:00Z"
+        },
+        {
+          "end": "2026-08-30T08:10:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-08-30T07:00:00Z"
+        },
+        {
+          "end": "2026-08-29T16:45:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-08-29T15:30:00Z"
+        },
+        {
+          "end": "2026-08-30T10:20:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-08-30T09:05:00Z"
+        },
+        {
+          "end": "2026-08-30T13:50:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-08-30T13:05:00Z"
+        },
+        {
+          "end": "2026-08-30T13:05:00Z",
+          "name": "Comida",
+          "start": "2026-08-30T11:20:00Z"
+        },
+        {
+          "end": "2026-08-30T15:15:00Z",
+          "name": "5x5x5 Cube, Round 2",
+          "start": "2026-08-30T14:45:00Z"
+        },
+        {
+          "end": "2026-08-30T15:45:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-08-30T15:15:00Z"
+        },
+        {
+          "end": "2026-08-30T16:05:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-08-30T15:45:00Z"
+        },
+        {
+          "end": "2026-08-30T16:25:00Z",
+          "name": "Desmontaje",
+          "start": "2026-08-30T16:05:00Z"
+        },
+        {
+          "end": "2026-08-30T16:55:00Z",
+          "name": "Entrega de premios y sorteo",
+          "start": "2026-08-30T16:25:00Z"
+        },
+        {
+          "end": "2026-08-30T14:15:00Z",
+          "name": "3x3x3 Blindfolded, Round 2",
+          "start": "2026-08-30T13:50:00Z"
+        },
+        {
+          "end": "2026-08-30T14:45:00Z",
+          "name": "Clock, Round 3",
+          "start": "2026-08-30T14:15:00Z"
+        }
+      ],
+      "start_date": "2026-08-29",
+      "venue": "[Antic mercat de Torrent](https://maps.app.goo.gl/oGe1uqoseiyG4ErM8)"
+    },
     "VillanuevaOpen2026": {
       "cancelled_at": null,
       "city": "Villanueva de la Cañada, Madrid",
@@ -2538,5 +2684,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-07-15T16:21:16.365295Z"
+  "updated_at": "2026-07-15T18:06:58.954363Z"
 }
