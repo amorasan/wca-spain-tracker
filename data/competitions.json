@@ -1264,6 +1264,135 @@
       "start_date": "2026-10-24",
       "venue": "[Centro Comercial el Tormes](https://www.eltormes.com/)"
     },
+    "IslaCristinaOpen2026": {
+      "cancelled_at": null,
+      "city": "Isla Cristina, Huelva",
+      "competitor_limit": 50,
+      "end_date": "2026-08-30",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333bf",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "IslaCristinaOpen2026",
+      "name": "Isla Cristina Open 2026",
+      "registration_close": "2026-08-22T21:59:00.000Z",
+      "registration_open": "2026-07-28T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-08-29T08:30:00Z",
+          "name": "Check-in",
+          "start": "2026-08-29T08:00:00Z"
+        },
+        {
+          "end": "2026-08-29T08:30:00Z",
+          "name": "Tutorial for new competitors",
+          "start": "2026-08-29T08:15:00Z"
+        },
+        {
+          "end": "2026-08-29T09:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-08-29T08:30:00Z"
+        },
+        {
+          "end": "2026-08-29T10:45:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-08-29T09:45:00Z"
+        },
+        {
+          "end": "2026-08-29T11:30:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-08-29T10:45:00Z"
+        },
+        {
+          "end": "2026-08-29T13:30:00Z",
+          "name": "Lunch",
+          "start": "2026-08-29T11:30:00Z"
+        },
+        {
+          "end": "2026-08-29T14:30:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-08-29T13:30:00Z"
+        },
+        {
+          "end": "2026-08-29T15:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-08-29T14:30:00Z"
+        },
+        {
+          "end": "2026-08-29T16:15:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-08-29T15:30:00Z"
+        },
+        {
+          "end": "2026-08-29T17:00:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-08-29T16:15:00Z"
+        },
+        {
+          "end": "2026-08-29T18:00:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-08-29T17:00:00Z"
+        },
+        {
+          "end": "2026-08-30T08:50:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-08-30T08:00:00Z"
+        },
+        {
+          "end": "2026-08-30T09:25:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-08-30T08:50:00Z"
+        },
+        {
+          "end": "2026-08-30T10:10:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-08-30T09:25:00Z"
+        },
+        {
+          "end": "2026-08-30T10:45:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-08-30T10:10:00Z"
+        },
+        {
+          "end": "2026-08-30T11:15:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-08-30T10:45:00Z"
+        },
+        {
+          "end": "2026-08-30T11:45:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-08-30T11:15:00Z"
+        },
+        {
+          "end": "2026-08-30T14:00:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2026-08-30T13:30:00Z"
+        },
+        {
+          "end": "2026-08-30T14:30:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-08-30T14:00:00Z"
+        },
+        {
+          "end": "2026-08-30T13:30:00Z",
+          "name": "Lunch",
+          "start": "2026-08-30T11:45:00Z"
+        },
+        {
+          "end": "2026-08-30T15:00:00Z",
+          "name": "Awards",
+          "start": "2026-08-30T14:30:00Z"
+        }
+      ],
+      "start_date": "2026-08-29",
+      "venue": "Pabellón Municipal Deportes \"Manuel López Soler\""
+    },
     "MallorcaOpen2026": {
       "cancelled_at": null,
       "city": "Calvià, Mallorca",
@@ -2866,5 +2995,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-07-21T15:43:21.788176Z"
+  "updated_at": "2026-07-21T17:18:50.124595Z"
 }
