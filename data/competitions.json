@@ -119,6 +119,38 @@
       "start_date": "2026-07-25",
       "venue": "[Centro Enclave Joven](https://www.comunidad.madrid/centros/centro-informacion-juvenil-arganda-rey)"
     },
+    "AsteNagusiaBilbaoOpen2026": {
+      "cancelled_at": null,
+      "city": "Bilbao, Bizkaia",
+      "competitor_limit": 64,
+      "end_date": "2026-08-24",
+      "events": [
+        "333"
+      ],
+      "id": "AsteNagusiaBilbaoOpen2026",
+      "name": "Aste Nagusia Bilbao Open 2026",
+      "registration_close": "2026-08-23T18:00:00.000Z",
+      "registration_open": "2026-07-25T12:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-08-24T11:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-08-24T10:00:00Z"
+        },
+        {
+          "end": "2026-08-24T11:45:00Z",
+          "name": "1 vs 1 finala",
+          "start": "2026-08-24T11:15:00Z"
+        },
+        {
+          "end": "2026-08-24T10:00:00Z",
+          "name": "Lehiakide berrirentzako tutoriala",
+          "start": "2026-08-24T09:45:00Z"
+        }
+      ],
+      "start_date": "2026-08-24",
+      "venue": "Moskotarrak Txosna"
+    },
     "BegastriOpen2026": {
       "cancelled_at": null,
       "city": "Cehegín, Murcia",
@@ -2995,5 +3027,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-07-22T08:28:37.251738Z"
+  "updated_at": "2026-07-22T11:09:37.408225Z"
 }
