@@ -590,6 +590,106 @@
       "start_date": "2026-09-05",
       "venue": "[Bilborock](https://bilbaogazte.bilbao.eus/es/bilborock/)"
     },
+    "CeheginCallao2026": {
+      "cancelled_at": null,
+      "city": "Cehegín, Murcia",
+      "competitor_limit": 20,
+      "end_date": "2026-10-18",
+      "events": [
+        "333bf",
+        "444bf",
+        "555bf",
+        "333mbf"
+      ],
+      "id": "CeheginCallao2026",
+      "name": "Cehegín Callao 2026",
+      "registration_close": "2026-10-11T21:59:00.000Z",
+      "registration_open": "2026-10-01T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-17T11:45:00Z",
+          "name": "FMC Spanish Championship 2026",
+          "start": "2026-10-17T07:30:00Z"
+        },
+        {
+          "end": "2026-10-17T13:15:00Z",
+          "name": "Lunch",
+          "start": "2026-10-17T11:45:00Z"
+        },
+        {
+          "end": "2026-10-17T14:30:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
+          "start": "2026-10-17T13:15:00Z"
+        },
+        {
+          "end": "2026-10-17T16:05:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-10-17T15:25:00Z"
+        },
+        {
+          "end": "2026-10-18T09:25:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2026-10-18T07:45:00Z"
+        },
+        {
+          "end": "2026-10-18T09:25:00Z",
+          "name": "5x5x5 Blindfolded, Round 1",
+          "start": "2026-10-18T07:45:00Z"
+        },
+        {
+          "end": "2026-10-17T18:00:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 2",
+          "start": "2026-10-17T16:45:00Z"
+        },
+        {
+          "end": "2026-10-18T10:10:00Z",
+          "name": "3x3x3 Blindfolded, Round 2",
+          "start": "2026-10-18T09:30:00Z"
+        },
+        {
+          "end": "2026-10-18T11:30:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 3",
+          "start": "2026-10-18T10:15:00Z"
+        },
+        {
+          "end": "2026-10-17T16:35:00Z",
+          "name": "NO OFICIAL: FTO",
+          "start": "2026-10-17T16:05:00Z"
+        },
+        {
+          "end": "2026-10-17T15:10:00Z",
+          "name": "NO OFICIAL: Team Blind",
+          "start": "2026-10-17T14:40:00Z"
+        },
+        {
+          "end": "2026-10-17T11:45:00Z",
+          "name": "Cube submission for 3x3x3 Multi-Blind",
+          "start": "2026-10-17T11:30:00Z"
+        },
+        {
+          "end": "2026-10-17T15:25:00Z",
+          "name": "Cube submission for 3x3x3 Multi-Blind",
+          "start": "2026-10-17T15:10:00Z"
+        },
+        {
+          "end": "2026-10-18T07:45:00Z",
+          "name": "Cube submission for 3x3x3 Multi-Blind",
+          "start": "2026-10-18T07:30:00Z"
+        },
+        {
+          "end": "2026-10-18T12:00:00Z",
+          "name": "Awards",
+          "start": "2026-10-18T11:45:00Z"
+        },
+        {
+          "end": "2026-10-18T11:45:00Z",
+          "name": "Teardown",
+          "start": "2026-10-18T11:30:00Z"
+        }
+      ],
+      "start_date": "2026-10-17",
+      "venue": "Espacio Joven Cehegín"
+    },
     "CiuLaManchaOpen2026": {
       "cancelled_at": null,
       "city": "Ciudad Real",
@@ -3022,5 +3122,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-07-28T07:37:52.159957Z"
+  "updated_at": "2026-07-28T10:34:26.789598Z"
 }
