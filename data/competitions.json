@@ -2865,6 +2865,140 @@
       "start_date": "2026-08-29",
       "venue": "[Antic mercat de Torrent](https://maps.app.goo.gl/oGe1uqoseiyG4ErM8)"
     },
+    "VilajugaVilafranca2026": {
+      "cancelled_at": null,
+      "city": "Vilafranca del Penedès",
+      "competitor_limit": 100,
+      "end_date": "2026-10-04",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "666",
+        "777",
+        "333bf",
+        "333oh",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "VilajugaVilafranca2026",
+      "name": "Vilajuga Vilafranca 2026",
+      "registration_close": "2026-09-26T22:00:00.000Z",
+      "registration_open": "2026-08-04T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-03T09:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-03T08:45:00Z"
+        },
+        {
+          "end": "2026-10-03T10:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-03T09:45:00Z"
+        },
+        {
+          "end": "2026-10-03T11:15:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-10-03T10:30:00Z"
+        },
+        {
+          "end": "2026-10-03T12:00:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-10-03T11:15:00Z"
+        },
+        {
+          "end": "2026-10-03T14:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-10-03T13:30:00Z"
+        },
+        {
+          "end": "2026-10-03T13:30:00Z",
+          "name": "Dinar",
+          "start": "2026-10-03T12:00:00Z"
+        },
+        {
+          "end": "2026-10-03T08:45:00Z",
+          "name": "Registre i tutorial per nous competidors",
+          "start": "2026-10-03T08:15:00Z"
+        },
+        {
+          "end": "2026-10-03T15:30:00Z",
+          "name": "7x7x7 Cube, Round 1",
+          "start": "2026-10-03T14:30:00Z"
+        },
+        {
+          "end": "2026-10-04T16:30:00Z",
+          "name": "Entrega de premis",
+          "start": "2026-10-04T16:00:00Z"
+        },
+        {
+          "end": "2026-10-04T13:45:00Z",
+          "name": "Dinar",
+          "start": "2026-10-04T12:15:00Z"
+        },
+        {
+          "end": "2026-10-04T09:30:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-10-04T08:30:00Z"
+        },
+        {
+          "end": "2026-10-04T16:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-10-04T15:30:00Z"
+        },
+        {
+          "end": "2026-10-03T17:15:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-10-03T16:15:00Z"
+        },
+        {
+          "end": "2026-10-03T16:15:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-10-03T15:30:00Z"
+        },
+        {
+          "end": "2026-10-03T18:15:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-10-03T17:15:00Z"
+        },
+        {
+          "end": "2026-10-04T12:15:00Z",
+          "name": "6x6x6 Cube, Round 1",
+          "start": "2026-10-04T11:15:00Z"
+        },
+        {
+          "end": "2026-10-04T10:15:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-04T09:30:00Z"
+        },
+        {
+          "end": "2026-10-04T11:15:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-10-04T10:15:00Z"
+        },
+        {
+          "end": "2026-10-04T14:30:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-10-04T13:45:00Z"
+        },
+        {
+          "end": "2026-10-04T15:00:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-10-04T14:30:00Z"
+        },
+        {
+          "end": "2026-10-04T15:30:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-10-04T15:00:00Z"
+        }
+      ],
+      "start_date": "2026-10-03",
+      "venue": "Pavelló firal de Vilafranca"
+    },
     "VillanuevaOpen2026": {
       "cancelled_at": null,
       "city": "Villanueva de la Cañada, Madrid",
@@ -2995,5 +3129,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-02T11:15:59.116627Z"
+  "updated_at": "2026-08-02T13:19:43.682175Z"
 }
