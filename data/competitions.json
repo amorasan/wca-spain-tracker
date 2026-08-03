@@ -370,6 +370,90 @@
       "start_date": "2026-08-20",
       "venue": "[Centro Cultural Adolfo Suárez](https://www.facebook.com/people/Centro-cultural-Adolfo-Su%C3%A1rez/100059695455281/)"
     },
+    "BigCubesMadrid2026": {
+      "cancelled_at": null,
+      "city": "Madrid",
+      "competitor_limit": 32,
+      "end_date": "2026-10-10",
+      "events": [
+        "555",
+        "666",
+        "777"
+      ],
+      "id": "BigCubesMadrid2026",
+      "name": "Big Cubes Madrid 2026",
+      "registration_close": "2026-09-30T21:59:00.000Z",
+      "registration_open": "2026-08-10T19:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-10T09:45:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-10-10T08:30:00Z"
+        },
+        {
+          "end": "2026-10-10T11:45:00Z",
+          "name": "6x6x6 Cube, Round 1",
+          "start": "2026-10-10T10:45:00Z"
+        },
+        {
+          "end": "2026-10-10T10:45:00Z",
+          "name": "7x7x7 Cube, Round 1",
+          "start": "2026-10-10T09:45:00Z"
+        },
+        {
+          "end": "2026-10-10T16:10:00Z",
+          "name": "7x7x7 Cube, Round 3",
+          "start": "2026-10-10T15:45:00Z"
+        },
+        {
+          "end": "2026-10-10T17:00:00Z",
+          "name": "5x5x5 Cube, Round 3",
+          "start": "2026-10-10T16:35:00Z"
+        },
+        {
+          "end": "2026-10-10T16:35:00Z",
+          "name": "6x6x6 Cube, Round 3",
+          "start": "2026-10-10T16:10:00Z"
+        },
+        {
+          "end": "2026-10-10T15:45:00Z",
+          "name": "5x5x5 Cube, Round 2",
+          "start": "2026-10-10T14:45:00Z"
+        },
+        {
+          "end": "2026-10-10T14:45:00Z",
+          "name": "6x6x6 Cube, Round 2",
+          "start": "2026-10-10T14:00:00Z"
+        },
+        {
+          "end": "2026-10-10T14:00:00Z",
+          "name": "7x7x7 Cube, Round 2",
+          "start": "2026-10-10T13:15:00Z"
+        },
+        {
+          "end": "2026-10-10T08:30:00Z",
+          "name": "Registro",
+          "start": "2026-10-10T08:00:00Z"
+        },
+        {
+          "end": "2026-10-10T13:15:00Z",
+          "name": "Comida",
+          "start": "2026-10-10T11:45:00Z"
+        },
+        {
+          "end": "2026-10-10T17:30:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-10-10T17:00:00Z"
+        },
+        {
+          "end": "2026-10-10T08:30:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-10T08:15:00Z"
+        }
+      ],
+      "start_date": "2026-10-10",
+      "venue": "[Centro Cultural Sanchinarro](https://centroculturalsanchinarro.com/)"
+    },
     "BilbaoGoesDark2026": {
       "cancelled_at": null,
       "city": "Bilbao, Bizkaia",
@@ -3129,5 +3213,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-03T15:42:01.132118Z"
+  "updated_at": "2026-08-03T17:50:07.364677Z"
 }
