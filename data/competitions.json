@@ -623,44 +623,39 @@
           "start": "2026-08-12T06:30:00Z"
         },
         {
-          "end": "2026-08-12T08:20:00Z",
+          "end": "2026-08-12T08:15:00Z",
           "name": "3x3x3 Cube, Round 1",
-          "start": "2026-08-12T07:00:00Z"
+          "start": "2026-08-12T07:15:00Z"
         },
         {
-          "end": "2026-08-12T08:30:00Z",
-          "name": "Score-taking",
-          "start": "2026-08-12T08:20:00Z"
-        },
-        {
-          "end": "2026-08-12T09:50:00Z",
+          "end": "2026-08-12T09:15:00Z",
           "name": "3x3x3 Cube, Round 2",
-          "start": "2026-08-12T08:30:00Z"
+          "start": "2026-08-12T08:15:00Z"
         },
         {
-          "end": "2026-08-12T10:00:00Z",
+          "end": "2026-08-12T09:30:00Z",
           "name": "Score-taking",
-          "start": "2026-08-12T09:50:00Z"
+          "start": "2026-08-12T09:15:00Z"
         },
         {
-          "end": "2026-08-12T10:40:00Z",
+          "end": "2026-08-12T10:10:00Z",
           "name": "3x3x3 Cube, Round 3",
-          "start": "2026-08-12T10:00:00Z"
+          "start": "2026-08-12T09:30:00Z"
+        },
+        {
+          "end": "2026-08-12T10:30:00Z",
+          "name": "Awards",
+          "start": "2026-08-12T10:10:00Z"
         },
         {
           "end": "2026-08-12T11:00:00Z",
-          "name": "Awards",
-          "start": "2026-08-12T10:40:00Z"
-        },
-        {
-          "end": "2026-08-12T11:30:00Z",
           "name": "Recogida",
-          "start": "2026-08-12T11:00:00Z"
+          "start": "2026-08-12T10:30:00Z"
         },
         {
-          "end": "2026-08-12T07:00:00Z",
+          "end": "2026-08-12T07:15:00Z",
           "name": "Tutorial",
-          "start": "2026-08-12T06:45:00Z"
+          "start": "2026-08-12T07:00:00Z"
         }
       ],
       "start_date": "2026-08-12",
@@ -3498,5 +3493,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-07T11:44:09.613678Z"
+  "updated_at": "2026-08-07T13:01:51.718150Z"
 }
