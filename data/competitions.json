@@ -185,7 +185,7 @@
     "BegastriOpen2026": {
       "cancelled_at": null,
       "city": "Cehegín, Murcia",
-      "competitor_limit": 54,
+      "competitor_limit": 59,
       "end_date": "2026-08-23",
       "events": [
         "333",
@@ -3493,5 +3493,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-08T21:29:00.982899Z"
+  "updated_at": "2026-08-08T22:28:13.030111Z"
 }
