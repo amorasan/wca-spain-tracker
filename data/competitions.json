@@ -2494,7 +2494,7 @@
           "start": "2026-08-08T07:10:00Z"
         },
         {
-          "end": "2026-08-08T09:10:00Z",
+          "end": "2026-08-08T12:30:00Z",
           "name": "Entrega de cubos para 3x3x3 Multi Ciega",
           "start": "2026-08-08T07:30:00Z"
         },
@@ -3493,5 +3493,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-08T06:52:05.465238Z"
+  "updated_at": "2026-08-08T07:49:29.895839Z"
 }
