@@ -604,63 +604,6 @@
       "start_date": "2026-10-10",
       "venue": "[Centro Cultural Sanchinarro](https://centroculturalsanchinarro.com/)"
     },
-    "BilbaoGoesDark2026": {
-      "cancelled_at": null,
-      "city": "Bilbao, Bizkaia",
-      "competitor_limit": 80,
-      "end_date": "2026-08-12",
-      "events": [
-        "333"
-      ],
-      "id": "BilbaoGoesDark2026",
-      "name": "Bilbao Goes Dark - Eclipse Day 2026",
-      "registration_close": "2026-08-10T21:59:00.000Z",
-      "registration_open": "2026-04-20T17:00:00.000Z",
-      "schedule": [
-        {
-          "end": "2026-08-12T07:00:00Z",
-          "name": "Montaje",
-          "start": "2026-08-12T06:30:00Z"
-        },
-        {
-          "end": "2026-08-12T08:15:00Z",
-          "name": "3x3x3 Cube, Round 1",
-          "start": "2026-08-12T07:15:00Z"
-        },
-        {
-          "end": "2026-08-12T09:15:00Z",
-          "name": "3x3x3 Cube, Round 2",
-          "start": "2026-08-12T08:15:00Z"
-        },
-        {
-          "end": "2026-08-12T09:30:00Z",
-          "name": "Score-taking",
-          "start": "2026-08-12T09:15:00Z"
-        },
-        {
-          "end": "2026-08-12T10:10:00Z",
-          "name": "3x3x3 Cube, Round 3",
-          "start": "2026-08-12T09:30:00Z"
-        },
-        {
-          "end": "2026-08-12T10:30:00Z",
-          "name": "Awards",
-          "start": "2026-08-12T10:10:00Z"
-        },
-        {
-          "end": "2026-08-12T11:00:00Z",
-          "name": "Recogida",
-          "start": "2026-08-12T10:30:00Z"
-        },
-        {
-          "end": "2026-08-12T07:15:00Z",
-          "name": "Tutorial",
-          "start": "2026-08-12T07:00:00Z"
-        }
-      ],
-      "start_date": "2026-08-12",
-      "venue": "La Perrera"
-    },
     "BilbaoOpen2026": {
       "cancelled_at": null,
       "city": "Bilbao, Bizkaia",
@@ -3361,5 +3304,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-12T23:40:27.983674Z"
+  "updated_at": "2026-08-13T01:56:03.197929Z"
 }
