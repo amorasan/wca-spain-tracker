@@ -1589,6 +1589,68 @@
       "start_date": "2026-10-24",
       "venue": "[Centro Comercial el Tormes](https://www.eltormes.com/)"
     },
+    "FMCSpanishChampionship2026": {
+      "cancelled_at": null,
+      "city": "Multiple cities",
+      "competitor_limit": null,
+      "end_date": "2026-10-17",
+      "events": [
+        "333fm"
+      ],
+      "id": "FMCSpanishChampionship2026",
+      "name": "FMC Spanish Championship 2026",
+      "registration_close": "2026-10-09T21:59:00.000Z",
+      "registration_open": "2026-09-01T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-17T08:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2026-10-17T07:30:00Z"
+        },
+        {
+          "end": "2026-10-17T10:00:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 2",
+          "start": "2026-10-17T09:00:00Z"
+        },
+        {
+          "end": "2026-10-17T11:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 3",
+          "start": "2026-10-17T10:30:00Z"
+        },
+        {
+          "end": "2026-10-17T08:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2026-10-17T07:30:00Z"
+        },
+        {
+          "end": "2026-10-17T10:00:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 2",
+          "start": "2026-10-17T09:00:00Z"
+        },
+        {
+          "end": "2026-10-17T11:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 3",
+          "start": "2026-10-17T10:30:00Z"
+        },
+        {
+          "end": "2026-10-17T08:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2026-10-17T07:30:00Z"
+        },
+        {
+          "end": "2026-10-17T11:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 3",
+          "start": "2026-10-17T10:30:00Z"
+        },
+        {
+          "end": "2026-10-17T10:00:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 2",
+          "start": "2026-10-17T09:00:00Z"
+        }
+      ],
+      "start_date": "2026-10-17",
+      "venue": "[Multiple venues](#73016-sedes-locations)"
+    },
     "GuadixOpen2026": {
       "cancelled_at": null,
       "city": "Guadix, Granada",
@@ -3304,5 +3366,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-17T14:26:48.891749Z"
+  "updated_at": "2026-08-17T15:24:03.039568Z"
 }
