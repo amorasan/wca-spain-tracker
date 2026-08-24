@@ -424,6 +424,150 @@
       "start_date": "2026-09-05",
       "venue": "[Bilborock](https://bilbaogazte.bilbao.eus/es/bilborock/)"
     },
+    "CarmonaOpen2026": {
+      "cancelled_at": null,
+      "city": "Carmona, Sevilla",
+      "competitor_limit": 50,
+      "end_date": "2026-10-18",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333oh",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb"
+      ],
+      "id": "CarmonaOpen2026",
+      "name": "Carmona Open 2026",
+      "registration_close": "2026-10-05T21:59:00.000Z",
+      "registration_open": "2026-09-01T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-17T13:15:00Z",
+          "name": "Check-in",
+          "start": "2026-10-17T12:45:00Z"
+        },
+        {
+          "end": "2026-10-17T13:15:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-17T13:00:00Z"
+        },
+        {
+          "end": "2026-10-17T14:05:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-17T13:15:00Z"
+        },
+        {
+          "end": "2026-10-17T16:30:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-10-17T15:40:00Z"
+        },
+        {
+          "end": "2026-10-17T17:25:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-17T16:30:00Z"
+        },
+        {
+          "end": "2026-10-17T15:40:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-10-17T14:55:00Z"
+        },
+        {
+          "end": "2026-10-17T14:55:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-10-17T14:05:00Z"
+        },
+        {
+          "end": "2026-10-18T08:50:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-18T08:05:00Z"
+        },
+        {
+          "end": "2026-10-18T07:25:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-10-18T06:45:00Z"
+        },
+        {
+          "end": "2026-10-18T08:05:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-10-18T07:25:00Z"
+        },
+        {
+          "end": "2026-10-18T09:50:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-10-18T08:50:00Z"
+        },
+        {
+          "end": "2026-10-18T11:30:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-10-18T11:10:00Z"
+        },
+        {
+          "end": "2026-10-18T10:35:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-10-18T09:50:00Z"
+        },
+        {
+          "end": "2026-10-17T18:25:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-10-17T18:00:00Z"
+        },
+        {
+          "end": "2026-10-17T19:00:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-10-17T18:25:00Z"
+        },
+        {
+          "end": "2026-10-17T18:00:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-10-17T17:25:00Z"
+        },
+        {
+          "end": "2026-10-18T11:50:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-10-18T11:30:00Z"
+        },
+        {
+          "end": "2026-10-18T12:10:00Z",
+          "name": "Clock, Round 3",
+          "start": "2026-10-18T11:50:00Z"
+        },
+        {
+          "end": "2026-10-18T11:10:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-10-18T10:55:00Z"
+        },
+        {
+          "end": "2026-10-18T10:55:00Z",
+          "name": "Pyraminx, Round 3",
+          "start": "2026-10-18T10:35:00Z"
+        },
+        {
+          "end": "2026-10-18T12:40:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-10-18T12:10:00Z"
+        },
+        {
+          "end": "2026-10-17T08:30:00Z",
+          "name": "FMC Spanish Championship Intento 1",
+          "start": "2026-10-17T07:30:00Z"
+        },
+        {
+          "end": "2026-10-17T10:00:00Z",
+          "name": "FMC Spanish Championship Intento 2",
+          "start": "2026-10-17T09:00:00Z"
+        },
+        {
+          "end": "2026-10-17T11:30:00Z",
+          "name": "FMC Spanish Championship Intento 3",
+          "start": "2026-10-17T10:30:00Z"
+        }
+      ],
+      "start_date": "2026-10-17",
+      "venue": "Complejo Cultural Santa Ana"
+    },
     "CeheginCallao2026": {
       "cancelled_at": null,
       "city": "Cehegín, Murcia",
@@ -3028,5 +3172,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-23T23:20:15.612745Z"
+  "updated_at": "2026-08-24T01:14:56.834913Z"
 }
