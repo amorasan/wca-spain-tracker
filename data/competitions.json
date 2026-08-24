@@ -164,19 +164,24 @@
       "registration_open": "2026-07-25T12:00:00.000Z",
       "schedule": [
         {
-          "end": "2026-08-24T11:15:00Z",
+          "end": "2026-08-24T10:55:00Z",
           "name": "3x3x3 Cube, Round 1",
           "start": "2026-08-24T10:00:00Z"
         },
         {
-          "end": "2026-08-24T11:45:00Z",
+          "end": "2026-08-24T11:55:00Z",
           "name": "1 vs 1 finala",
-          "start": "2026-08-24T11:15:00Z"
+          "start": "2026-08-24T11:25:00Z"
         },
         {
           "end": "2026-08-24T10:00:00Z",
           "name": "Lehiakide berrirentzako tutoriala",
           "start": "2026-08-24T09:45:00Z"
+        },
+        {
+          "end": "2026-08-24T11:25:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-08-24T10:55:00Z"
         }
       ],
       "start_date": "2026-08-24",
@@ -3172,5 +3177,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-24T22:25:13.570042Z"
+  "updated_at": "2026-08-24T23:21:19.277737Z"
 }
