@@ -1580,7 +1580,7 @@
       "cancelled_at": null,
       "city": "Isla Cristina, Huelva",
       "competitor_limit": 50,
-      "end_date": "2026-08-30",
+      "end_date": "2026-08-29",
       "events": [
         "333",
         "222",
@@ -3110,5 +3110,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-25T12:45:09.230671Z"
+  "updated_at": "2026-08-25T13:49:43.918928Z"
 }
