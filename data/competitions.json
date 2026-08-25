@@ -2026,6 +2026,138 @@
       "start_date": "2026-11-14",
       "venue": "[Cal Reig - Minyons de Terrassa](https://minyons.cat/la-colla/cal-reig/)"
     },
+    "MomiasQuintoOpen2026": {
+      "cancelled_at": null,
+      "city": "Quinto, Zaragoza",
+      "competitor_limit": 60,
+      "end_date": "2026-11-01",
+      "events": [
+        "333",
+        "222",
+        "555",
+        "777",
+        "333bf",
+        "333oh",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "MomiasQuintoOpen2026",
+      "name": "Momias Quinto Open 2026",
+      "registration_close": "2026-10-22T19:00:00.000Z",
+      "registration_open": "2026-08-28T19:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-31T19:00:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-31T18:45:00Z"
+        },
+        {
+          "end": "2026-10-31T20:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-31T19:00:00Z"
+        },
+        {
+          "end": "2026-10-31T21:00:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-31T20:15:00Z"
+        },
+        {
+          "end": "2026-10-31T23:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-31T22:30:00Z"
+        },
+        {
+          "end": "2026-11-01T00:15:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-10-31T23:30:00Z"
+        },
+        {
+          "end": "2026-11-01T01:15:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-11-01T00:15:00Z"
+        },
+        {
+          "end": "2026-11-01T02:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-11-01T01:15:00Z"
+        },
+        {
+          "end": "2026-11-01T03:00:00Z",
+          "name": "7x7x7 Cube, Round 1",
+          "start": "2026-11-01T02:00:00Z"
+        },
+        {
+          "end": "2026-11-01T03:45:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-11-01T03:00:00Z"
+        },
+        {
+          "end": "2026-11-01T07:20:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-11-01T07:00:00Z"
+        },
+        {
+          "end": "2026-11-01T04:00:00Z",
+          "name": "3x3x3 One-Handed, Round 2",
+          "start": "2026-11-01T03:45:00Z"
+        },
+        {
+          "end": "2026-11-01T07:00:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-11-01T06:00:00Z"
+        },
+        {
+          "end": "2026-11-01T05:15:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-11-01T04:00:00Z"
+        },
+        {
+          "end": "2026-11-01T08:00:00Z",
+          "name": "PREPARACIÓN FINAL",
+          "start": "2026-11-01T07:45:00Z"
+        },
+        {
+          "end": "2026-11-01T09:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-11-01T08:00:00Z"
+        },
+        {
+          "end": "2026-11-01T09:30:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-11-01T09:00:00Z"
+        },
+        {
+          "end": "2026-10-31T22:00:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-10-31T21:00:00Z"
+        },
+        {
+          "end": "2026-11-01T06:00:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-11-01T05:15:00Z"
+        },
+        {
+          "end": "2026-10-31T22:30:00Z",
+          "name": "Cena",
+          "start": "2026-10-31T22:00:00Z"
+        },
+        {
+          "end": "2026-11-01T08:00:00Z",
+          "name": "Desayuno",
+          "start": "2026-11-01T07:20:00Z"
+        },
+        {
+          "end": "2026-10-31T19:00:00Z",
+          "name": "Registro",
+          "start": "2026-10-31T18:30:00Z"
+        }
+      ],
+      "start_date": "2026-10-31",
+      "venue": "Salón Social La Codera"
+    },
     "NerjaChanqueteOpen2026": {
       "cancelled_at": null,
       "city": "Nerja, Málaga",
@@ -3110,5 +3242,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-25T13:49:43.918928Z"
+  "updated_at": "2026-08-25T14:43:28.067143Z"
 }
