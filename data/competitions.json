@@ -1622,24 +1622,24 @@
           "start": "2026-08-29T09:50:00Z"
         },
         {
-          "end": "2026-08-29T13:30:00Z",
+          "end": "2026-08-29T14:05:00Z",
           "name": "Lunch",
-          "start": "2026-08-29T11:30:00Z"
+          "start": "2026-08-29T11:50:00Z"
         },
         {
-          "end": "2026-08-29T10:55:00Z",
+          "end": "2026-08-29T10:45:00Z",
           "name": "3x3x3 Blindfolded, Round 1",
           "start": "2026-08-29T10:25:00Z"
         },
         {
-          "end": "2026-08-29T11:30:00Z",
+          "end": "2026-08-29T11:15:00Z",
           "name": "Pyraminx, Round 1",
-          "start": "2026-08-29T10:55:00Z"
+          "start": "2026-08-29T10:45:00Z"
         },
         {
-          "end": "2026-08-29T14:05:00Z",
+          "end": "2026-08-29T11:50:00Z",
           "name": "Clock, Round 1",
-          "start": "2026-08-29T13:30:00Z"
+          "start": "2026-08-29T11:15:00Z"
         },
         {
           "end": "2026-08-29T14:40:00Z",
@@ -3242,5 +3242,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-29T05:51:23.752233Z"
+  "updated_at": "2026-08-29T12:23:12.706641Z"
 }
