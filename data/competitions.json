@@ -2834,11 +2834,16 @@
           "end": "2026-09-12T08:00:00Z",
           "name": "Tutorial para nuevos competidores",
           "start": "2026-09-12T07:45:00Z"
+        },
+        {
+          "end": "2026-09-12T13:30:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-09-12T13:15:00Z"
         }
       ],
       "start_date": "2026-09-12",
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-31T10:43:57.635055Z"
+  "updated_at": "2026-08-31T17:55:06.231764Z"
 }
