@@ -2154,6 +2154,159 @@
       "start_date": "2026-10-10",
       "venue": "[Círculo Cultural y Recreativo de El Ejido](https://circuloculturalejido.com/instalaciones/)"
     },
+    "SarrigurenOpen2026": {
+      "cancelled_at": null,
+      "city": "Sarriguren, Navarra",
+      "competitor_limit": 80,
+      "end_date": "2026-10-25",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "SarrigurenOpen2026",
+      "name": "Sarriguren Open 2026",
+      "registration_close": "2026-10-18T00:00:00.000Z",
+      "registration_open": "2026-09-08T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-24T07:40:00Z",
+          "name": "Registro",
+          "start": "2026-10-24T07:00:00Z"
+        },
+        {
+          "end": "2026-10-24T07:40:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-24T07:20:00Z"
+        },
+        {
+          "end": "2026-10-24T08:40:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-24T07:40:00Z"
+        },
+        {
+          "end": "2026-10-24T12:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-10-24T11:35:00Z"
+        },
+        {
+          "end": "2026-10-24T10:40:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-10-24T09:50:00Z"
+        },
+        {
+          "end": "2026-10-24T09:20:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-10-24T08:40:00Z"
+        },
+        {
+          "end": "2026-10-24T14:00:00Z",
+          "name": "Comida",
+          "start": "2026-10-24T12:30:00Z"
+        },
+        {
+          "end": "2026-10-24T17:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-24T16:05:00Z"
+        },
+        {
+          "end": "2026-10-24T15:35:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-24T14:40:00Z"
+        },
+        {
+          "end": "2026-10-25T09:55:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-10-25T09:25:00Z"
+        },
+        {
+          "end": "2026-10-25T08:50:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-10-25T08:00:00Z"
+        },
+        {
+          "end": "2026-10-25T09:25:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-10-25T08:50:00Z"
+        },
+        {
+          "end": "2026-10-24T17:45:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-10-24T17:15:00Z"
+        },
+        {
+          "end": "2026-10-24T16:05:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-10-24T15:35:00Z"
+        },
+        {
+          "end": "2026-10-25T12:20:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-10-25T12:00:00Z"
+        },
+        {
+          "end": "2026-10-25T12:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-10-25T11:40:00Z"
+        },
+        {
+          "end": "2026-10-25T14:00:00Z",
+          "name": "Premios",
+          "start": "2026-10-25T13:20:00Z"
+        },
+        {
+          "end": "2026-10-24T11:35:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-10-24T10:40:00Z"
+        },
+        {
+          "end": "2026-10-25T13:20:00Z",
+          "name": "[UNNOFFICIAL] Final 1v1 2x2 (Top 8)",
+          "start": "2026-10-25T12:20:00Z"
+        },
+        {
+          "end": "2026-10-25T11:10:00Z",
+          "name": "Square-1, Round 3",
+          "start": "2026-10-25T10:50:00Z"
+        },
+        {
+          "end": "2026-10-25T10:50:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-10-25T10:25:00Z"
+        },
+        {
+          "end": "2026-10-25T10:25:00Z",
+          "name": "Hamaiketako",
+          "start": "2026-10-25T09:55:00Z"
+        },
+        {
+          "end": "2026-10-24T09:50:00Z",
+          "name": "Hamaiketako",
+          "start": "2026-10-24T09:20:00Z"
+        },
+        {
+          "end": "2026-10-25T11:40:00Z",
+          "name": "Pyraminx, Round 3",
+          "start": "2026-10-25T11:25:00Z"
+        },
+        {
+          "end": "2026-10-25T11:25:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2026-10-25T11:10:00Z"
+        },
+        {
+          "end": "2026-10-24T14:40:00Z",
+          "name": "Partido de Futbol",
+          "start": "2026-10-24T14:00:00Z"
+        }
+      ],
+      "start_date": "2026-10-24",
+      "venue": "IES Sarriguren BHI"
+    },
     "SpanishChampionship2026": {
       "cancelled_at": null,
       "city": "Barakaldo, Bizkaia",
@@ -2845,5 +2998,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-08-31T17:55:06.231764Z"
+  "updated_at": "2026-08-31T22:31:59.312976Z"
 }
