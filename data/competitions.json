@@ -2154,6 +2154,153 @@
       "start_date": "2026-10-10",
       "venue": "[Círculo Cultural y Recreativo de El Ejido](https://circuloculturalejido.com/instalaciones/)"
     },
+    "PuertoRealCamaleonOpen2026": {
+      "cancelled_at": null,
+      "city": "Puerto Real, Cádiz",
+      "competitor_limit": 80,
+      "end_date": "2026-11-15",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "666",
+        "333bf",
+        "333oh",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "PuertoRealCamaleonOpen2026",
+      "name": "Puerto Real Camaleón Open 2026",
+      "registration_close": "2026-11-07T22:59:00.000Z",
+      "registration_open": "2026-09-07T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-11-14T08:15:00Z",
+          "name": "Registro | Check-in",
+          "start": "2026-11-14T07:45:00Z"
+        },
+        {
+          "end": "2026-11-14T08:15:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors",
+          "start": "2026-11-14T07:55:00Z"
+        },
+        {
+          "end": "2026-11-14T09:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-11-14T08:15:00Z"
+        },
+        {
+          "end": "2026-11-14T10:45:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-11-14T09:30:00Z"
+        },
+        {
+          "end": "2026-11-14T11:45:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-11-14T10:45:00Z"
+        },
+        {
+          "end": "2026-11-14T12:30:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-11-14T11:45:00Z"
+        },
+        {
+          "end": "2026-11-14T13:45:00Z",
+          "name": "Comida | Lunch",
+          "start": "2026-11-14T12:30:00Z"
+        },
+        {
+          "end": "2026-11-14T14:45:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-11-14T13:45:00Z"
+        },
+        {
+          "end": "2026-11-14T15:55:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-11-14T14:45:00Z"
+        },
+        {
+          "end": "2026-11-14T17:25:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-11-14T15:55:00Z"
+        },
+        {
+          "end": "2026-11-14T18:10:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-11-14T17:25:00Z"
+        },
+        {
+          "end": "2026-11-14T19:10:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-11-14T18:10:00Z"
+        },
+        {
+          "end": "2026-11-14T19:45:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-11-14T19:10:00Z"
+        },
+        {
+          "end": "2026-11-15T09:45:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-11-15T08:45:00Z"
+        },
+        {
+          "end": "2026-11-15T10:20:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-11-15T09:45:00Z"
+        },
+        {
+          "end": "2026-11-15T11:05:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-11-15T10:20:00Z"
+        },
+        {
+          "end": "2026-11-15T11:25:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-11-15T11:05:00Z"
+        },
+        {
+          "end": "2026-11-15T11:45:00Z",
+          "name": "Pyraminx, Round 3",
+          "start": "2026-11-15T11:25:00Z"
+        },
+        {
+          "end": "2026-11-15T12:05:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2026-11-15T11:45:00Z"
+        },
+        {
+          "end": "2026-11-15T12:20:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-11-15T12:05:00Z"
+        },
+        {
+          "end": "2026-11-15T12:40:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-11-15T12:20:00Z"
+        },
+        {
+          "end": "2026-11-15T13:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-11-15T12:40:00Z"
+        },
+        {
+          "end": "2026-11-15T13:35:00Z",
+          "name": "Entrega de premios | Awards",
+          "start": "2026-11-15T13:00:00Z"
+        },
+        {
+          "end": "2026-11-15T08:45:00Z",
+          "name": "6x6x6 Cube, Round 1",
+          "start": "2026-11-15T07:45:00Z"
+        }
+      ],
+      "start_date": "2026-11-14",
+      "venue": "Centro Cultural Rosa Butler"
+    },
     "SarrigurenOpen2026": {
       "cancelled_at": null,
       "city": "Sarriguren, Navarra",
@@ -3097,5 +3244,5 @@
       "venue": "[Polideportivo Santiago Apóstol](http://www.ayto-villacanada.es/deporte/complejo_deportivo_santiago_apostol)"
     }
   },
-  "updated_at": "2026-09-03T06:54:08.352655Z"
+  "updated_at": "2026-09-03T11:57:13.415518Z"
 }
