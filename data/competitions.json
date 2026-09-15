@@ -150,6 +150,182 @@
       "start_date": "2026-10-31",
       "venue": "Espai d'arts escèniques"
     },
+    "BasauriOpen2026": {
+      "cancelled_at": null,
+      "city": "Basauri, Bizkaia",
+      "competitor_limit": 60,
+      "end_date": "2026-11-08",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333bf",
+        "333oh",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1"
+      ],
+      "id": "BasauriOpen2026",
+      "name": "Basauri Open 2026",
+      "registration_close": "2026-11-06T19:00:00.000Z",
+      "registration_open": "2026-09-21T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-11-07T10:15:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-11-07T09:15:00Z"
+        },
+        {
+          "end": "2026-11-07T09:15:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-11-07T08:15:00Z"
+        },
+        {
+          "end": "2026-11-07T11:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-11-07T10:15:00Z"
+        },
+        {
+          "end": "2026-11-07T17:00:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-11-07T16:15:00Z"
+        },
+        {
+          "end": "2026-11-08T11:35:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-11-08T11:00:00Z"
+        },
+        {
+          "end": "2026-11-07T19:00:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-11-07T18:25:00Z"
+        },
+        {
+          "end": "2026-11-07T14:00:00Z",
+          "name": "Lunch",
+          "start": "2026-11-07T12:45:00Z"
+        },
+        {
+          "end": "2026-11-07T10:15:00Z",
+          "name": "Tutorial for new competitors",
+          "start": "2026-11-07T10:00:00Z"
+        },
+        {
+          "end": "2026-11-07T08:30:00Z",
+          "name": "Check-in",
+          "start": "2026-11-07T08:00:00Z"
+        },
+        {
+          "end": "2026-11-07T16:15:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-11-07T15:15:00Z"
+        },
+        {
+          "end": "2026-11-07T12:45:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-11-07T11:45:00Z"
+        },
+        {
+          "end": "2026-11-08T10:15:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-11-08T09:15:00Z"
+        },
+        {
+          "end": "2026-11-08T09:15:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-11-08T08:15:00Z"
+        },
+        {
+          "end": "2026-11-08T15:00:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2026-11-08T14:40:00Z"
+        },
+        {
+          "end": "2026-11-07T18:25:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-11-07T17:40:00Z"
+        },
+        {
+          "end": "2026-11-08T13:40:00Z",
+          "name": "Lunch",
+          "start": "2026-11-08T12:25:00Z"
+        },
+        {
+          "end": "2026-11-08T16:00:00Z",
+          "name": "4x4x4 Cube, Round 3",
+          "start": "2026-11-08T15:30:00Z"
+        },
+        {
+          "end": "2026-11-08T16:30:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-11-08T16:00:00Z"
+        },
+        {
+          "end": "2026-11-08T15:30:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2026-11-08T15:15:00Z"
+        },
+        {
+          "end": "2026-11-07T15:15:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-11-07T14:00:00Z"
+        },
+        {
+          "end": "2026-11-08T14:40:00Z",
+          "name": "Pyraminx, Round 3",
+          "start": "2026-11-08T14:25:00Z"
+        },
+        {
+          "end": "2026-11-07T17:40:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-11-07T17:00:00Z"
+        },
+        {
+          "end": "2026-11-08T13:55:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-11-08T13:40:00Z"
+        },
+        {
+          "end": "2026-11-08T11:00:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-11-08T10:15:00Z"
+        },
+        {
+          "end": "2026-11-08T12:25:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-11-08T11:35:00Z"
+        },
+        {
+          "end": "2026-11-08T17:15:00Z",
+          "name": "Awards",
+          "start": "2026-11-08T16:30:00Z"
+        },
+        {
+          "end": "2026-11-08T14:10:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2026-11-08T13:55:00Z"
+        },
+        {
+          "end": "2026-11-08T15:15:00Z",
+          "name": "3x3x3 Blindfolded, Round 2",
+          "start": "2026-11-08T15:00:00Z"
+        },
+        {
+          "end": "2026-11-08T14:25:00Z",
+          "name": "3x3x3 One-Handed, Round 2",
+          "start": "2026-11-08T14:10:00Z"
+        },
+        {
+          "end": "2026-11-08T08:15:00Z",
+          "name": "Apertura de puertas",
+          "start": "2026-11-08T08:00:00Z"
+        }
+      ],
+      "start_date": "2026-11-07",
+      "venue": "Basozelai Gizarte Etxea"
+    },
     "BigCubesMadrid2026": {
       "cancelled_at": null,
       "city": "Madrid",
@@ -2887,6 +3063,96 @@
       "start_date": "2026-10-24",
       "venue": "Centro Comercial Meridiano"
     },
+    "UrnietaMentalBreakdown2026": {
+      "cancelled_at": null,
+      "city": "Urnieta, Gipuzkoa",
+      "competitor_limit": 20,
+      "end_date": "2026-11-21",
+      "events": [
+        "333bf",
+        "444bf",
+        "555bf",
+        "333mbf"
+      ],
+      "id": "UrnietaMentalBreakdown2026",
+      "name": "Urnieta Mental Breakdown 2026",
+      "registration_close": "2026-11-16T18:00:00.000Z",
+      "registration_open": "2026-09-23T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-11-21T16:50:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
+          "start": "2026-11-21T15:30:00Z"
+        },
+        {
+          "end": "2026-11-21T08:30:00Z",
+          "name": "check-in",
+          "start": "2026-11-21T08:00:00Z"
+        },
+        {
+          "end": "2026-11-21T10:45:00Z",
+          "name": "Cube submission for 3x3x3 Multi-Blind",
+          "start": "2026-11-21T10:30:00Z"
+        },
+        {
+          "end": "2026-11-21T09:30:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-11-21T08:30:00Z"
+        },
+        {
+          "end": "2026-11-21T10:30:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2026-11-21T09:30:00Z"
+        },
+        {
+          "end": "2026-11-21T11:25:00Z",
+          "name": "Touch Cube",
+          "start": "2026-11-21T10:45:00Z"
+        },
+        {
+          "end": "2026-11-21T15:30:00Z",
+          "name": "Team Blind",
+          "start": "2026-11-21T14:45:00Z"
+        },
+        {
+          "end": "2026-11-21T12:45:00Z",
+          "name": "5x5x5 Blindfolded, Round 1",
+          "start": "2026-11-21T11:25:00Z"
+        },
+        {
+          "end": "2026-11-21T13:45:00Z",
+          "name": "Lunch Break",
+          "start": "2026-11-21T12:45:00Z"
+        },
+        {
+          "end": "2026-11-21T12:10:00Z",
+          "name": "cube scramble for multiblind",
+          "start": "2026-11-21T11:25:00Z"
+        },
+        {
+          "end": "2026-11-21T14:45:00Z",
+          "name": "3x3x3 Blindfolded, Round 2",
+          "start": "2026-11-21T13:45:00Z"
+        },
+        {
+          "end": "2026-11-21T17:40:00Z",
+          "name": "3x3x3 Blindfolded, Round 3",
+          "start": "2026-11-21T16:50:00Z"
+        },
+        {
+          "end": "2026-11-21T18:00:00Z",
+          "name": "Teardown",
+          "start": "2026-11-21T17:40:00Z"
+        },
+        {
+          "end": "2026-11-21T18:30:00Z",
+          "name": "Awards",
+          "start": "2026-11-21T18:00:00Z"
+        }
+      ],
+      "start_date": "2026-11-21",
+      "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
+    },
     "VilajugaVilafranca2026": {
       "cancelled_at": null,
       "city": "Vilafranca del Penedès",
@@ -3022,5 +3288,5 @@
       "venue": "Pavelló firal de Vilafranca"
     }
   },
-  "updated_at": "2026-09-14T21:33:37.781516Z"
+  "updated_at": "2026-09-15T00:20:13.895496Z"
 }
