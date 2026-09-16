@@ -1345,6 +1345,109 @@
       "start_date": "2026-11-21",
       "venue": "IES Antonio Álvarez López"
     },
+    "GranTuriaOpen2026": {
+      "cancelled_at": null,
+      "city": "València",
+      "competitor_limit": 60,
+      "end_date": "2026-11-07",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333oh",
+        "pyram",
+        "skewb"
+      ],
+      "id": "GranTuriaOpen2026",
+      "name": "Gran Turia Open 2026",
+      "registration_close": "2026-11-01T22:59:00.000Z",
+      "registration_open": "2026-10-01T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-11-07T10:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-11-07T09:00:00Z"
+        },
+        {
+          "end": "2026-11-07T17:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-11-07T15:45:00Z"
+        },
+        {
+          "end": "2026-11-07T18:20:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-11-07T18:00:00Z"
+        },
+        {
+          "end": "2026-11-07T15:45:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-11-07T14:45:00Z"
+        },
+        {
+          "end": "2026-11-07T18:00:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-11-07T17:00:00Z"
+        },
+        {
+          "end": "2026-11-07T12:00:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-11-07T11:15:00Z"
+        },
+        {
+          "end": "2026-11-07T14:45:00Z",
+          "name": "Lunch",
+          "start": "2026-11-07T13:00:00Z"
+        },
+        {
+          "end": "2026-11-07T09:00:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-11-07T08:00:00Z"
+        },
+        {
+          "end": "2026-11-07T13:00:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-11-07T12:00:00Z"
+        },
+        {
+          "end": "2026-11-07T18:40:00Z",
+          "name": "Teardown",
+          "start": "2026-11-07T18:20:00Z"
+        },
+        {
+          "end": "2026-11-07T11:15:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-11-07T10:15:00Z"
+        },
+        {
+          "end": "2026-11-07T19:10:00Z",
+          "name": "Awards",
+          "start": "2026-11-07T18:40:00Z"
+        },
+        {
+          "end": "2026-11-07T08:00:00Z",
+          "name": "Check-in",
+          "start": "2026-11-07T07:30:00Z"
+        },
+        {
+          "end": "2026-11-07T08:00:00Z",
+          "name": "Tutorial for new competitors",
+          "start": "2026-11-07T07:45:00Z"
+        },
+        {
+          "end": "2026-11-07T08:00:00Z",
+          "name": "4-pad Training",
+          "start": "2026-11-07T07:30:00Z"
+        },
+        {
+          "end": "2026-11-07T14:45:00Z",
+          "name": "4-pad Training",
+          "start": "2026-11-07T13:00:00Z"
+        }
+      ],
+      "start_date": "2026-11-07",
+      "venue": "[Centro Comercial Gran Turia](https://maps.app.goo.gl/TimbVVwf8tshaBsE9)"
+    },
     "GuadixOpen2026": {
       "cancelled_at": null,
       "city": "Guadix, Granada",
@@ -3288,5 +3391,5 @@
       "venue": "Pavelló firal de Vilafranca"
     }
   },
-  "updated_at": "2026-09-15T23:25:31.692635Z"
+  "updated_at": "2026-09-16T03:35:00.840808Z"
 }
