@@ -150,6 +150,56 @@
       "start_date": "2026-10-31",
       "venue": "Espai d'arts escèniques"
     },
+    "BarakaldoMiniopenABK2026": {
+      "cancelled_at": null,
+      "city": "Barakaldo, Bizkaia",
+      "competitor_limit": 50,
+      "end_date": "2026-10-17",
+      "events": [
+        "333",
+        "222",
+        "pyram",
+        "skewb"
+      ],
+      "id": "BarakaldoMiniopenABK2026",
+      "name": "Barakaldo Miniopen ABK 2026",
+      "registration_close": "2026-10-16T14:00:00.000Z",
+      "registration_open": "2026-10-01T14:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-10-17T15:35:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-10-17T14:30:00Z"
+        },
+        {
+          "end": "2026-10-17T14:30:00Z",
+          "name": "Registro",
+          "start": "2026-10-17T14:00:00Z"
+        },
+        {
+          "end": "2026-10-17T18:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-10-17T17:30:00Z"
+        },
+        {
+          "end": "2026-10-17T17:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-10-17T16:30:00Z"
+        },
+        {
+          "end": "2026-10-17T16:30:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-10-17T15:35:00Z"
+        },
+        {
+          "end": "2026-10-17T14:30:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2026-10-17T14:15:00Z"
+        }
+      ],
+      "start_date": "2026-10-17",
+      "venue": "ABK Jaialdi Nagusia"
+    },
     "BasauriOpen2026": {
       "cancelled_at": null,
       "city": "Basauri, Bizkaia",
@@ -3391,5 +3441,5 @@
       "venue": "Pavelló firal de Vilafranca"
     }
   },
-  "updated_at": "2026-09-16T18:40:39.604596Z"
+  "updated_at": "2026-09-16T21:54:26.844175Z"
 }
