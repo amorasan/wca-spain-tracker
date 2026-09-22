@@ -460,6 +460,158 @@
       "start_date": "2026-10-10",
       "venue": "[Centro Cultural Sanchinarro](https://centroculturalsanchinarro.com/)"
     },
+    "BormujosOpen2026": {
+      "cancelled_at": null,
+      "city": "Bormujos, Sevilla",
+      "competitor_limit": 64,
+      "end_date": "2026-11-08",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333oh",
+        "clock",
+        "pyram",
+        "skewb",
+        "sq1",
+        "444bf",
+        "333mbf"
+      ],
+      "id": "BormujosOpen2026",
+      "name": "Bormujos Open 2026",
+      "registration_close": "2026-11-01T22:59:00.000Z",
+      "registration_open": "2026-09-25T18:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-11-07T09:40:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-11-07T08:30:00Z"
+        },
+        {
+          "end": "2026-11-07T11:00:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-11-07T09:40:00Z"
+        },
+        {
+          "end": "2026-11-07T08:30:00Z",
+          "name": "Registro  | Check-in",
+          "start": "2026-11-07T08:00:00Z"
+        },
+        {
+          "end": "2026-11-07T08:30:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors ",
+          "start": "2026-11-07T08:15:00Z"
+        },
+        {
+          "end": "2026-11-07T11:30:00Z",
+          "name": "Foto grupal y entrega de certificados de participación | Group photo and certificate ceremony",
+          "start": "2026-11-07T11:00:00Z"
+        },
+        {
+          "end": "2026-11-07T16:05:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
+          "start": "2026-11-07T14:55:00Z"
+        },
+        {
+          "end": "2026-11-07T19:00:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-11-07T18:00:00Z"
+        },
+        {
+          "end": "2026-11-07T13:35:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-11-07T12:35:00Z"
+        },
+        {
+          "end": "2026-11-07T14:55:00Z",
+          "name": "Almuerzo | Lunch",
+          "start": "2026-11-07T13:35:00Z"
+        },
+        {
+          "end": "2026-11-07T17:05:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2026-11-07T16:05:00Z"
+        },
+        {
+          "end": "2026-11-07T18:00:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-11-07T17:05:00Z"
+        },
+        {
+          "end": "2026-11-07T12:35:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-11-07T11:30:00Z"
+        },
+        {
+          "end": "2026-11-08T10:15:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2026-11-08T09:30:00Z"
+        },
+        {
+          "end": "2026-11-07T19:55:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2026-11-07T19:00:00Z"
+        },
+        {
+          "end": "2026-11-08T08:50:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2026-11-08T08:00:00Z"
+        },
+        {
+          "end": "2026-11-08T09:30:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-11-08T08:50:00Z"
+        },
+        {
+          "end": "2026-11-08T10:50:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-11-08T10:15:00Z"
+        },
+        {
+          "end": "2026-11-08T12:00:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-11-08T11:40:00Z"
+        },
+        {
+          "end": "2026-11-08T11:40:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2026-11-08T11:15:00Z"
+        },
+        {
+          "end": "2026-11-08T11:15:00Z",
+          "name": "3x3x3 One-Handed, Round 2",
+          "start": "2026-11-08T10:50:00Z"
+        },
+        {
+          "end": "2026-11-08T12:20:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-11-08T12:00:00Z"
+        },
+        {
+          "end": "2026-11-08T12:40:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2026-11-08T12:20:00Z"
+        },
+        {
+          "end": "2026-11-08T13:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-11-08T12:40:00Z"
+        },
+        {
+          "end": "2026-11-08T13:30:00Z",
+          "name": "Premiación | Awards",
+          "start": "2026-11-08T13:00:00Z"
+        },
+        {
+          "end": "2026-11-07T11:40:00Z",
+          "name": "Entrega de cubos para 3x3x3 Multi-Blind | Cube submission for 3x3x3 Multi-Blind",
+          "start": "2026-11-07T10:40:00Z"
+        }
+      ],
+      "start_date": "2026-11-07",
+      "venue": "Centro multifuncional "
+    },
     "CarmonaOpen2026": {
       "cancelled_at": null,
       "city": "Carmona, Sevilla",
@@ -2978,5 +3130,5 @@
       "venue": "Pavelló firal de Vilafranca"
     }
   },
-  "updated_at": "2026-09-22T09:03:31.519822Z"
+  "updated_at": "2026-09-22T14:22:20.681261Z"
 }
