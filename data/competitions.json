@@ -1079,6 +1079,21 @@
           "end": "2026-10-17T11:30:00Z",
           "name": "3x3x3 Fewest Moves, Round 1, Attempt 3",
           "start": "2026-10-17T10:30:00Z"
+        },
+        {
+          "end": "2026-10-17T08:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2026-10-17T07:30:00Z"
+        },
+        {
+          "end": "2026-10-17T11:30:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 3",
+          "start": "2026-10-17T10:30:00Z"
+        },
+        {
+          "end": "2026-10-17T10:00:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 2",
+          "start": "2026-10-17T09:00:00Z"
         }
       ],
       "start_date": "2026-10-17",
@@ -2999,5 +3014,5 @@
       "venue": "Pavelló firal de Vilafranca"
     }
   },
-  "updated_at": "2026-10-01T14:13:53.816606Z"
+  "updated_at": "2026-10-01T20:08:28.528423Z"
 }
