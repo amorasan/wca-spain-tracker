@@ -1348,6 +1348,130 @@
       "start_date": "2026-11-07",
       "venue": "[Centro Comercial Gran Turia](https://maps.app.goo.gl/TimbVVwf8tshaBsE9)"
     },
+    "LElianaOpen2026": {
+      "cancelled_at": null,
+      "city": "L'Eliana, Valencia",
+      "competitor_limit": 60,
+      "end_date": "2026-11-22",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333bf",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb"
+      ],
+      "id": "LElianaOpen2026",
+      "name": "L'Eliana Open 2026",
+      "registration_close": "2026-11-15T22:59:00.000Z",
+      "registration_open": "2026-10-13T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2026-11-21T08:15:00Z",
+          "name": "Registro | Check-in",
+          "start": "2026-11-21T07:45:00Z"
+        },
+        {
+          "end": "2026-11-21T08:15:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors",
+          "start": "2026-11-21T08:00:00Z"
+        },
+        {
+          "end": "2026-11-21T09:30:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2026-11-21T08:15:00Z"
+        },
+        {
+          "end": "2026-11-21T10:30:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2026-11-21T09:30:00Z"
+        },
+        {
+          "end": "2026-11-21T11:30:00Z",
+          "name": "Clock, Round 1",
+          "start": "2026-11-21T10:30:00Z"
+        },
+        {
+          "end": "2026-11-21T12:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2026-11-21T11:30:00Z"
+        },
+        {
+          "end": "2026-11-21T14:00:00Z",
+          "name": "Comida | Lunch",
+          "start": "2026-11-21T12:30:00Z"
+        },
+        {
+          "end": "2026-11-21T15:00:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2026-11-21T14:00:00Z"
+        },
+        {
+          "end": "2026-11-21T16:00:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2026-11-21T15:00:00Z"
+        },
+        {
+          "end": "2026-11-21T16:45:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2026-11-21T16:00:00Z"
+        },
+        {
+          "end": "2026-11-21T18:45:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-11-21T17:30:00Z"
+        },
+        {
+          "end": "2026-11-21T17:30:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2026-11-21T16:45:00Z"
+        },
+        {
+          "end": "2026-11-22T10:00:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2026-11-22T09:00:00Z"
+        },
+        {
+          "end": "2026-11-22T09:00:00Z",
+          "name": "Clock, Round 2",
+          "start": "2026-11-22T08:00:00Z"
+        },
+        {
+          "end": "2026-11-22T10:20:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2026-11-22T10:00:00Z"
+        },
+        {
+          "end": "2026-11-22T10:40:00Z",
+          "name": "Pyraminx, Round 3",
+          "start": "2026-11-22T10:20:00Z"
+        },
+        {
+          "end": "2026-11-22T11:10:00Z",
+          "name": "Clock, Round 3",
+          "start": "2026-11-22T10:40:00Z"
+        },
+        {
+          "end": "2026-11-22T11:30:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2026-11-22T11:10:00Z"
+        },
+        {
+          "end": "2026-11-22T12:00:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2026-11-22T11:30:00Z"
+        },
+        {
+          "end": "2026-11-22T13:00:00Z",
+          "name": "Entrega de premios",
+          "start": "2026-11-22T12:00:00Z"
+        }
+      ],
+      "start_date": "2026-11-21",
+      "venue": "Escola Municipal de Persones Adultes"
+    },
     "MadridNorteOpen2026": {
       "cancelled_at": null,
       "city": "Madrid",
@@ -2890,5 +3014,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-10-09T02:53:37.880927Z"
+  "updated_at": "2026-10-09T10:07:24.424882Z"
 }
