@@ -167,7 +167,7 @@
       "registration_open": "2026-10-01T14:00:00.000Z",
       "schedule": [
         {
-          "end": "2026-10-17T15:35:00Z",
+          "end": "2026-10-17T15:45:00Z",
           "name": "3x3x3 Cube, Round 1",
           "start": "2026-10-17T14:30:00Z"
         },
@@ -177,24 +177,29 @@
           "start": "2026-10-17T14:00:00Z"
         },
         {
-          "end": "2026-10-17T18:30:00Z",
+          "end": "2026-10-17T18:10:00Z",
           "name": "2x2x2 Cube, Round 1",
-          "start": "2026-10-17T17:30:00Z"
+          "start": "2026-10-17T17:10:00Z"
         },
         {
-          "end": "2026-10-17T17:30:00Z",
+          "end": "2026-10-17T17:10:00Z",
           "name": "Pyraminx, Round 1",
-          "start": "2026-10-17T16:30:00Z"
+          "start": "2026-10-17T16:25:00Z"
         },
         {
-          "end": "2026-10-17T16:30:00Z",
+          "end": "2026-10-17T16:25:00Z",
           "name": "Skewb, Round 1",
-          "start": "2026-10-17T15:35:00Z"
+          "start": "2026-10-17T15:45:00Z"
         },
         {
           "end": "2026-10-17T14:30:00Z",
           "name": "Tutorial para nuevos competidores",
           "start": "2026-10-17T14:15:00Z"
+        },
+        {
+          "end": "2026-10-17T18:30:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2026-10-17T18:10:00Z"
         }
       ],
       "start_date": "2026-10-17",
@@ -2784,5 +2789,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-10-14T13:20:06.809178Z"
+  "updated_at": "2026-10-14T18:18:41.072299Z"
 }
