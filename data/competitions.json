@@ -521,19 +521,19 @@
           "start": "2026-10-24T09:35:00Z"
         },
         {
-          "end": "2026-10-24T15:45:00Z",
+          "end": "2026-10-24T15:50:00Z",
           "name": "Clock, Round 1",
-          "start": "2026-10-24T15:05:00Z"
+          "start": "2026-10-24T15:10:00Z"
         },
         {
-          "end": "2026-10-24T16:25:00Z",
+          "end": "2026-10-24T16:30:00Z",
           "name": "Skewb, Round 1",
-          "start": "2026-10-24T15:45:00Z"
+          "start": "2026-10-24T15:50:00Z"
         },
         {
           "end": "2026-10-24T17:10:00Z",
           "name": "Pyraminx, Round 1",
-          "start": "2026-10-24T16:25:00Z"
+          "start": "2026-10-24T16:30:00Z"
         },
         {
           "end": "2026-10-24T14:10:00Z",
@@ -546,7 +546,7 @@
           "start": "2026-10-24T17:10:00Z"
         },
         {
-          "end": "2026-10-24T15:05:00Z",
+          "end": "2026-10-24T15:10:00Z",
           "name": "Megaminx, Round 1",
           "start": "2026-10-24T14:10:00Z"
         },
@@ -2403,5 +2403,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-10-18T16:27:04.548822Z"
+  "updated_at": "2026-10-18T19:14:25.325696Z"
 }
