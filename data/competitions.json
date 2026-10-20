@@ -2216,7 +2216,7 @@
     "TenerifeOpen2026": {
       "cancelled_at": null,
       "city": "Santa Cruz de Tenerife, Canarias",
-      "competitor_limit": 50,
+      "competitor_limit": 54,
       "end_date": "2026-10-24",
       "events": [
         "333",
@@ -2403,5 +2403,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-10-19T23:20:35.309019Z"
+  "updated_at": "2026-10-20T03:37:58.586198Z"
 }
