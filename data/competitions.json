@@ -2185,9 +2185,9 @@
           "start": "2026-12-05T08:40:00Z"
         },
         {
-          "end": "2026-12-06T15:10:00Z",
+          "end": "2026-12-06T15:15:00Z",
           "name": "5x5x5 Blindfolded Round 1",
-          "start": "2026-12-06T14:10:00Z"
+          "start": "2026-12-06T14:15:00Z"
         },
         {
           "end": "2026-12-05T15:25:00Z",
@@ -2195,9 +2195,9 @@
           "start": "2026-12-05T14:15:00Z"
         },
         {
-          "end": "2026-12-06T10:50:00Z",
+          "end": "2026-12-06T11:15:00Z",
           "name": "3x3x3 Multi-Blind Round 1 Attempt 2",
-          "start": "2026-12-06T09:40:00Z"
+          "start": "2026-12-06T10:05:00Z"
         },
         {
           "end": "2026-12-05T12:35:00Z",
@@ -2403,5 +2403,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-10-21T07:07:27.409531Z"
+  "updated_at": "2026-10-21T13:28:39.247877Z"
 }
