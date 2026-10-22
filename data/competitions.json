@@ -478,6 +478,146 @@
       "start_date": "2026-11-07",
       "venue": "Centro multifuncional "
     },
+    "EcijaOpen2027": {
+      "cancelled_at": null,
+      "city": "Écija, Sevilla",
+      "competitor_limit": 80,
+      "end_date": "2027-01-31",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "333bf",
+        "pyram",
+        "skewb",
+        "sq1",
+        "fto"
+      ],
+      "id": "EcijaOpen2027",
+      "name": "Écija Open 2027",
+      "registration_close": "2027-01-22T22:59:00.000Z",
+      "registration_open": "2026-10-26T17:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-30T08:00:00Z",
+          "name": "Check-in",
+          "start": "2027-01-30T07:30:00Z"
+        },
+        {
+          "end": "2027-01-30T08:00:00Z",
+          "name": "Tutorial for new competitors",
+          "start": "2027-01-30T07:45:00Z"
+        },
+        {
+          "end": "2027-01-30T09:00:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2027-01-30T08:00:00Z"
+        },
+        {
+          "end": "2027-01-30T10:00:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2027-01-30T09:00:00Z"
+        },
+        {
+          "end": "2027-01-30T12:15:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2027-01-30T11:00:00Z"
+        },
+        {
+          "end": "2027-01-30T13:45:00Z",
+          "name": "Lunch",
+          "start": "2027-01-30T12:15:00Z"
+        },
+        {
+          "end": "2027-01-30T15:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2027-01-30T13:45:00Z"
+        },
+        {
+          "end": "2027-01-30T16:00:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2027-01-30T15:15:00Z"
+        },
+        {
+          "end": "2027-01-30T16:45:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2027-01-30T16:00:00Z"
+        },
+        {
+          "end": "2027-01-30T17:45:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2027-01-30T16:45:00Z"
+        },
+        {
+          "end": "2027-01-30T19:40:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2027-01-30T18:20:00Z"
+        },
+        {
+          "end": "2027-01-31T09:30:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2027-01-31T08:00:00Z"
+        },
+        {
+          "end": "2027-01-31T12:10:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2027-01-31T11:50:00Z"
+        },
+        {
+          "end": "2027-01-31T11:10:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2027-01-31T10:30:00Z"
+        },
+        {
+          "end": "2027-01-30T18:20:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2027-01-30T17:45:00Z"
+        },
+        {
+          "end": "2027-01-31T11:30:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2027-01-31T11:10:00Z"
+        },
+        {
+          "end": "2027-01-31T11:50:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2027-01-31T11:30:00Z"
+        },
+        {
+          "end": "2027-01-31T12:30:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2027-01-31T12:10:00Z"
+        },
+        {
+          "end": "2027-01-31T12:50:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2027-01-31T12:30:00Z"
+        },
+        {
+          "end": "2027-01-31T13:10:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2027-01-31T12:50:00Z"
+        },
+        {
+          "end": "2027-01-31T13:40:00Z",
+          "name": "Awards",
+          "start": "2027-01-31T13:10:00Z"
+        },
+        {
+          "end": "2027-01-30T11:00:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-30T10:00:00Z"
+        },
+        {
+          "end": "2027-01-31T10:30:00Z",
+          "name": "Face Turning Octahedron, Round 2",
+          "start": "2027-01-31T09:30:00Z"
+        }
+      ],
+      "start_date": "2027-01-30",
+      "venue": "Casino de Artesanos"
+    },
     "ElTormesOpen2026": {
       "cancelled_at": null,
       "city": "Santa Marta de Tormes, Salamanca",
@@ -2403,5 +2543,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-10-22T07:09:27.013940Z"
+  "updated_at": "2026-10-22T13:29:41.404750Z"
 }
