@@ -1596,7 +1596,7 @@
         {
           "end": "2026-12-05T12:30:00Z",
           "name": "Puzzles: Individual 500 piezas",
-          "start": "2026-12-05T10:30:00Z"
+          "start": "2026-12-05T10:00:00Z"
         },
         {
           "end": "2026-12-05T17:30:00Z",
@@ -1733,5 +1733,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-03T21:31:09.235163Z"
+  "updated_at": "2026-11-04T01:55:04.803335Z"
 }
