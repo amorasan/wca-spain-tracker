@@ -1629,7 +1629,7 @@
           "start": "2026-12-06T10:05:00Z"
         },
         {
-          "end": "2026-12-05T10:30:00Z",
+          "end": "2026-12-05T10:40:00Z",
           "name": "Cube submission for 3x3x3 Multi-Blind A1",
           "start": "2026-12-05T09:55:00Z"
         },
@@ -1733,5 +1733,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-05T11:53:50.852148Z"
+  "updated_at": "2026-11-05T19:33:43.133190Z"
 }
