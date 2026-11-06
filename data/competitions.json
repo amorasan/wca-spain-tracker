@@ -333,6 +333,124 @@
       "start_date": "2026-11-07",
       "venue": "Centro multifuncional "
     },
+    "CanamaresOpen2027": {
+      "cancelled_at": null,
+      "city": "Cañamares",
+      "competitor_limit": 50,
+      "end_date": "2027-01-03",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "clock",
+        "pyram",
+        "skewb",
+        "fto"
+      ],
+      "id": "CanamaresOpen2027",
+      "name": "Cañamares Open 2027",
+      "registration_close": "2026-12-19T22:59:00.000Z",
+      "registration_open": "2026-11-17T16:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-02T09:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2027-01-02T08:30:00Z"
+        },
+        {
+          "end": "2027-01-02T08:30:00Z",
+          "name": "Check-in",
+          "start": "2027-01-02T07:45:00Z"
+        },
+        {
+          "end": "2027-01-02T08:30:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2027-01-02T08:10:00Z"
+        },
+        {
+          "end": "2027-01-02T10:30:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2027-01-02T09:30:00Z"
+        },
+        {
+          "end": "2027-01-02T11:30:00Z",
+          "name": "Clock, Round 1",
+          "start": "2027-01-02T10:30:00Z"
+        },
+        {
+          "end": "2027-01-02T12:15:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2027-01-02T11:30:00Z"
+        },
+        {
+          "end": "2027-01-02T15:45:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2027-01-02T14:30:00Z"
+        },
+        {
+          "end": "2027-01-02T17:15:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-02T15:45:00Z"
+        },
+        {
+          "end": "2027-01-02T13:00:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2027-01-02T12:15:00Z"
+        },
+        {
+          "end": "2027-01-02T14:30:00Z",
+          "name": "Comida",
+          "start": "2027-01-02T13:00:00Z"
+        },
+        {
+          "end": "2027-01-03T09:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2027-01-03T08:00:00Z"
+        },
+        {
+          "end": "2027-01-02T18:00:00Z",
+          "name": "Clock, Round 2",
+          "start": "2027-01-02T17:15:00Z"
+        },
+        {
+          "end": "2027-01-03T10:15:00Z",
+          "name": "Face Turning Octahedron, Round 2",
+          "start": "2027-01-03T09:00:00Z"
+        },
+        {
+          "end": "2027-01-03T11:20:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2027-01-03T11:00:00Z"
+        },
+        {
+          "end": "2027-01-03T11:40:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2027-01-03T11:20:00Z"
+        },
+        {
+          "end": "2027-01-03T11:00:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2027-01-03T10:15:00Z"
+        },
+        {
+          "end": "2027-01-03T12:00:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2027-01-03T11:40:00Z"
+        },
+        {
+          "end": "2027-01-03T12:30:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2027-01-03T12:00:00Z"
+        },
+        {
+          "end": "2027-01-03T13:00:00Z",
+          "name": "Entrega de premios y desmontaje",
+          "start": "2027-01-03T12:30:00Z"
+        }
+      ],
+      "start_date": "2027-01-02",
+      "venue": "Ludoteca municipal"
+    },
     "EcijaOpen2027": {
       "cancelled_at": null,
       "city": "Écija, Sevilla",
@@ -1733,5 +1851,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-06T15:41:19.134498Z"
+  "updated_at": "2026-11-06T21:17:31.898534Z"
 }
