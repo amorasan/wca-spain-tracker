@@ -1164,9 +1164,9 @@
       "registration_open": "2026-09-23T18:00:00.000Z",
       "schedule": [
         {
-          "end": "2026-11-21T16:50:00Z",
+          "end": "2026-11-21T16:35:00Z",
           "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
-          "start": "2026-11-21T15:30:00Z"
+          "start": "2026-11-21T15:15:00Z"
         },
         {
           "end": "2026-11-21T08:30:00Z",
@@ -1174,69 +1174,69 @@
           "start": "2026-11-21T08:00:00Z"
         },
         {
-          "end": "2026-11-21T10:45:00Z",
+          "end": "2026-11-21T10:30:00Z",
           "name": "Cube submission for 3x3x3 Multi-Blind",
-          "start": "2026-11-21T10:30:00Z"
+          "start": "2026-11-21T10:15:00Z"
         },
         {
-          "end": "2026-11-21T09:30:00Z",
+          "end": "2026-11-21T09:15:00Z",
           "name": "3x3x3 Blindfolded, Round 1",
           "start": "2026-11-21T08:30:00Z"
         },
         {
-          "end": "2026-11-21T10:30:00Z",
+          "end": "2026-11-21T10:15:00Z",
           "name": "4x4x4 Blindfolded, Round 1",
-          "start": "2026-11-21T09:30:00Z"
+          "start": "2026-11-21T09:15:00Z"
         },
         {
-          "end": "2026-11-21T11:25:00Z",
+          "end": "2026-11-21T11:10:00Z",
           "name": "Touch Cube",
-          "start": "2026-11-21T10:45:00Z"
+          "start": "2026-11-21T10:30:00Z"
         },
         {
-          "end": "2026-11-21T15:30:00Z",
+          "end": "2026-11-21T15:15:00Z",
           "name": "Team Blind",
-          "start": "2026-11-21T14:45:00Z"
+          "start": "2026-11-21T14:35:00Z"
         },
         {
-          "end": "2026-11-21T12:45:00Z",
+          "end": "2026-11-21T12:30:00Z",
           "name": "5x5x5 Blindfolded, Round 1",
-          "start": "2026-11-21T11:25:00Z"
+          "start": "2026-11-21T11:10:00Z"
         },
         {
-          "end": "2026-11-21T13:45:00Z",
+          "end": "2026-11-21T13:30:00Z",
           "name": "Lunch Break",
-          "start": "2026-11-21T12:45:00Z"
+          "start": "2026-11-21T12:30:00Z"
         },
         {
-          "end": "2026-11-21T12:10:00Z",
+          "end": "2026-11-21T11:55:00Z",
           "name": "cube scramble for multiblind",
-          "start": "2026-11-21T11:25:00Z"
+          "start": "2026-11-21T11:10:00Z"
         },
         {
-          "end": "2026-11-21T14:45:00Z",
+          "end": "2026-11-21T17:55:00Z",
           "name": "3x3x3 Blindfolded, Round 2",
-          "start": "2026-11-21T13:45:00Z"
+          "start": "2026-11-21T17:05:00Z"
         },
         {
-          "end": "2026-11-21T17:40:00Z",
-          "name": "3x3x3 Blindfolded, Round 3",
-          "start": "2026-11-21T16:50:00Z"
-        },
-        {
-          "end": "2026-11-21T18:00:00Z",
-          "name": "Teardown",
-          "start": "2026-11-21T17:40:00Z"
-        },
-        {
-          "end": "2026-11-21T18:30:00Z",
+          "end": "2026-11-21T18:25:00Z",
           "name": "Awards",
-          "start": "2026-11-21T18:00:00Z"
+          "start": "2026-11-21T17:55:00Z"
+        },
+        {
+          "end": "2026-11-21T14:35:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2026-11-21T13:30:00Z"
+        },
+        {
+          "end": "2026-11-21T17:05:00Z",
+          "name": "FTO (to be confirmed)",
+          "start": "2026-11-21T16:35:00Z"
         }
       ],
       "start_date": "2026-11-21",
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-11T01:01:36.632860Z"
+  "updated_at": "2026-11-11T08:53:48.283009Z"
 }
