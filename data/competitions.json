@@ -258,6 +258,90 @@
       "start_date": "2027-01-30",
       "venue": "Casino de Artesanos"
     },
+    "ElVellonOpen2027": {
+      "cancelled_at": null,
+      "city": "El Vellón, Madrid",
+      "competitor_limit": 30,
+      "end_date": "2027-01-16",
+      "events": [
+        "555",
+        "333bf",
+        "333fm",
+        "clock",
+        "sq1",
+        "444bf",
+        "555bf",
+        "fto"
+      ],
+      "id": "ElVellonOpen2027",
+      "name": "El Vellón Open 2027",
+      "registration_close": "2027-01-09T17:00:00.000Z",
+      "registration_open": "2026-12-01T20:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-16T10:30:00Z",
+          "name": "5x5x5 Blindfolded, Round 1",
+          "start": "2027-01-16T09:15:00Z"
+        },
+        {
+          "end": "2027-01-16T14:45:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2027-01-16T13:45:00Z"
+        },
+        {
+          "end": "2027-01-16T13:45:00Z",
+          "name": "Comida | Lunch",
+          "start": "2027-01-16T12:15:00Z"
+        },
+        {
+          "end": "2027-01-16T15:45:00Z",
+          "name": "Clock, Round 1",
+          "start": "2027-01-16T14:45:00Z"
+        },
+        {
+          "end": "2027-01-16T18:00:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-16T16:45:00Z"
+        },
+        {
+          "end": "2027-01-16T18:30:00Z",
+          "name": "Clock, Round 2",
+          "start": "2027-01-16T18:00:00Z"
+        },
+        {
+          "end": "2027-01-16T19:00:00Z",
+          "name": "Entrega de premios | Awards",
+          "start": "2027-01-16T18:30:00Z"
+        },
+        {
+          "end": "2027-01-16T08:15:00Z",
+          "name": "Registro | Check-in",
+          "start": "2027-01-16T08:00:00Z"
+        },
+        {
+          "end": "2027-01-16T09:15:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2027-01-16T08:15:00Z"
+        },
+        {
+          "end": "2027-01-16T12:15:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2027-01-16T11:15:00Z"
+        },
+        {
+          "end": "2027-01-16T11:15:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2027-01-16T10:30:00Z"
+        },
+        {
+          "end": "2027-01-16T16:45:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2027-01-16T15:45:00Z"
+        }
+      ],
+      "start_date": "2027-01-16",
+      "venue": "Casa de la Cultura de El Vellón"
+    },
     "GelvesOpen2026": {
       "cancelled_at": null,
       "city": "Gelves, Sevilla",
@@ -1069,6 +1153,7 @@
       "end_date": "2026-11-21",
       "events": [
         "333bf",
+        "333fm",
         "444bf",
         "555bf",
         "333mbf"
@@ -1153,5 +1238,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-10T20:15:20.884390Z"
+  "updated_at": "2026-11-11T01:01:36.632860Z"
 }
