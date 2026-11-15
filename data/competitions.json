@@ -612,6 +612,105 @@
       "start_date": "2026-11-21",
       "venue": "Escola Municipal de Persones Adultes"
     },
+    "LugoOpen2027": {
+      "cancelled_at": null,
+      "city": "Lugo",
+      "competitor_limit": 60,
+      "end_date": "2027-01-03",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "333bf",
+        "clock",
+        "pyram",
+        "skewb",
+        "fto"
+      ],
+      "id": "LugoOpen2027",
+      "name": "Lugo Open 2027",
+      "registration_close": "2026-12-19T21:00:00.000Z",
+      "registration_open": "2026-11-19T20:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-03T08:30:00Z",
+          "name": "Check-in",
+          "start": "2027-01-03T08:00:00Z"
+        },
+        {
+          "end": "2027-01-03T09:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2027-01-03T08:30:00Z"
+        },
+        {
+          "end": "2027-01-03T10:15:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2027-01-03T09:30:00Z"
+        },
+        {
+          "end": "2027-01-03T11:15:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2027-01-03T10:15:00Z"
+        },
+        {
+          "end": "2027-01-03T12:15:00Z",
+          "name": "Clock, Round 1",
+          "start": "2027-01-03T11:15:00Z"
+        },
+        {
+          "end": "2027-01-03T13:00:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2027-01-03T12:15:00Z"
+        },
+        {
+          "end": "2027-01-03T14:30:00Z",
+          "name": "Xantar | Comida | Lunch",
+          "start": "2027-01-03T13:00:00Z"
+        },
+        {
+          "end": "2027-01-03T08:30:00Z",
+          "name": "Titorial para novos competidores",
+          "start": "2027-01-03T08:15:00Z"
+        },
+        {
+          "end": "2027-01-03T15:30:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-03T14:30:00Z"
+        },
+        {
+          "end": "2027-01-03T16:15:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2027-01-03T15:30:00Z"
+        },
+        {
+          "end": "2027-01-03T17:15:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2027-01-03T16:15:00Z"
+        },
+        {
+          "end": "2027-01-03T17:45:00Z",
+          "name": "Clock, Round 2",
+          "start": "2027-01-03T17:15:00Z"
+        },
+        {
+          "end": "2027-01-03T18:15:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2027-01-03T17:45:00Z"
+        },
+        {
+          "end": "2027-01-03T19:00:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2027-01-03T18:15:00Z"
+        },
+        {
+          "end": "2027-01-03T19:30:00Z",
+          "name": "Entrega de premios e sorteo | Awards and lucky draw",
+          "start": "2027-01-03T19:00:00Z"
+        }
+      ],
+      "start_date": "2027-01-03",
+      "venue": "[O Vello Cárcere](https://ovellocarceredelugo.gal/)"
+    },
     "MadridChessOpen2026": {
       "cancelled_at": null,
       "city": "Madrid",
@@ -1071,5 +1170,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-15T05:01:12.679777Z"
+  "updated_at": "2026-11-15T13:29:30.119035Z"
 }
