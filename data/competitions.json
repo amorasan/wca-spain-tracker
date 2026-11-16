@@ -483,6 +483,11 @@
           "end": "2026-11-22T13:30:00Z",
           "name": "Entrega de premios",
           "start": "2026-11-22T13:00:00Z"
+        },
+        {
+          "end": "2026-11-21T19:00:00Z",
+          "name": "5x5x5 Cube, Round 2",
+          "start": "2026-11-21T18:35:00Z"
         }
       ],
       "start_date": "2026-11-21",
@@ -1170,5 +1175,5 @@
       "venue": "[Lekaio Kultur Etxea](https://www.kulturklik.euskadi.eus/equipamiento/20150929126152/lekaio-kultur-etxea/kulturklik/es/webkklik00-detalle/es/)"
     }
   },
-  "updated_at": "2026-11-16T13:30:15.515976Z"
+  "updated_at": "2026-11-16T23:13:18.969162Z"
 }
