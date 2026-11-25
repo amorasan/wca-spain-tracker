@@ -342,6 +342,150 @@
       "start_date": "2027-01-16",
       "venue": "Casa de la Cultura de El Vellón"
     },
+    "LaRiojaOpen2027": {
+      "cancelled_at": null,
+      "city": "Nájera, La Rioja",
+      "competitor_limit": 50,
+      "end_date": "2027-01-24",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1",
+        "fto"
+      ],
+      "id": "LaRiojaOpen2027",
+      "name": "La Rioja Open 2027",
+      "registration_close": "2027-01-18T19:00:00.000Z",
+      "registration_open": "2026-11-30T19:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-23T08:30:00Z",
+          "name": "Registro | Check-in",
+          "start": "2027-01-23T08:00:00Z"
+        },
+        {
+          "end": "2027-01-23T08:30:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors",
+          "start": "2027-01-23T08:15:00Z"
+        },
+        {
+          "end": "2027-01-23T10:25:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2027-01-23T09:30:00Z"
+        },
+        {
+          "end": "2027-01-23T09:30:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2027-01-23T08:30:00Z"
+        },
+        {
+          "end": "2027-01-23T12:25:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2027-01-23T11:25:00Z"
+        },
+        {
+          "end": "2027-01-23T15:10:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2027-01-23T14:00:00Z"
+        },
+        {
+          "end": "2027-01-23T14:00:00Z",
+          "name": "Comida ",
+          "start": "2027-01-23T12:25:00Z"
+        },
+        {
+          "end": "2027-01-23T11:25:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-23T10:25:00Z"
+        },
+        {
+          "end": "2027-01-23T16:10:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2027-01-23T15:10:00Z"
+        },
+        {
+          "end": "2027-01-23T18:55:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2027-01-23T17:55:00Z"
+        },
+        {
+          "end": "2027-01-23T17:25:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2027-01-23T16:55:00Z"
+        },
+        {
+          "end": "2027-01-23T17:55:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2027-01-23T17:25:00Z"
+        },
+        {
+          "end": "2027-01-23T16:55:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2027-01-23T16:10:00Z"
+        },
+        {
+          "end": "2027-01-24T09:10:00Z",
+          "name": "3x3x3 Cube, Round 2",
+          "start": "2027-01-24T08:00:00Z"
+        },
+        {
+          "end": "2027-01-24T09:40:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2027-01-24T09:10:00Z"
+        },
+        {
+          "end": "2027-01-24T10:30:00Z",
+          "name": "Megaminx, Round 2",
+          "start": "2027-01-24T09:40:00Z"
+        },
+        {
+          "end": "2027-01-24T10:50:00Z",
+          "name": "Square-1, Round 2",
+          "start": "2027-01-24T10:30:00Z"
+        },
+        {
+          "end": "2027-01-24T11:20:00Z",
+          "name": "Face Turning Octahedron, Round 2",
+          "start": "2027-01-24T10:50:00Z"
+        },
+        {
+          "end": "2027-01-24T11:35:00Z",
+          "name": "2x2x2 Cube, Round 3",
+          "start": "2027-01-24T11:20:00Z"
+        },
+        {
+          "end": "2027-01-24T12:10:00Z",
+          "name": "3x3x3 Cube, Round 3",
+          "start": "2027-01-24T11:55:00Z"
+        },
+        {
+          "end": "2027-01-24T12:25:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2027-01-24T12:10:00Z"
+        },
+        {
+          "end": "2027-01-24T12:45:00Z",
+          "name": "Megaminx, Round 3",
+          "start": "2027-01-24T12:25:00Z"
+        },
+        {
+          "end": "2027-01-24T11:55:00Z",
+          "name": "4x4x4 Cube, Round 2",
+          "start": "2027-01-24T11:35:00Z"
+        },
+        {
+          "end": "2027-01-24T13:15:00Z",
+          "name": "Awards",
+          "start": "2027-01-24T12:45:00Z"
+        }
+      ],
+      "start_date": "2027-01-23",
+      "venue": "Frontón de Nájera"
+    },
     "LugoOpen2027": {
       "cancelled_at": null,
       "city": "Lugo",
@@ -808,6 +952,106 @@
       "start_date": "2026-12-05",
       "venue": "Polideportivo Lasesarre"
     },
+    "UrteBerriFTOn2027": {
+      "cancelled_at": null,
+      "city": "Bilbao, Bizkaia",
+      "competitor_limit": 30,
+      "end_date": "2027-01-02",
+      "events": [
+        "222",
+        "pyram",
+        "skewb",
+        "fto"
+      ],
+      "id": "UrteBerriFTOn2027",
+      "name": "Urte Berri FTOn 2027",
+      "registration_close": "2026-12-29T22:59:00.000Z",
+      "registration_open": "2026-12-01T19:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-02T14:55:00Z",
+          "name": "Lunch",
+          "start": "2027-01-02T13:30:00Z"
+        },
+        {
+          "end": "2027-01-02T17:50:00Z",
+          "name": "Awards",
+          "start": "2027-01-02T17:20:00Z"
+        },
+        {
+          "end": "2027-01-02T08:45:00Z",
+          "name": "Check-in",
+          "start": "2027-01-02T08:30:00Z"
+        },
+        {
+          "end": "2027-01-02T08:45:00Z",
+          "name": "Tutorial para nuevos competidores | Tutorial for new competitors",
+          "start": "2027-01-02T08:30:00Z"
+        },
+        {
+          "end": "2027-01-02T09:45:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-02T08:45:00Z"
+        },
+        {
+          "end": "2027-01-02T10:35:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2027-01-02T09:45:00Z"
+        },
+        {
+          "end": "2027-01-02T11:30:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2027-01-02T10:35:00Z"
+        },
+        {
+          "end": "2027-01-02T12:30:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2027-01-02T11:30:00Z"
+        },
+        {
+          "end": "2027-01-02T13:30:00Z",
+          "name": "Face Turning Octahedron, Round 2",
+          "start": "2027-01-02T12:30:00Z"
+        },
+        {
+          "end": "2027-01-02T15:55:00Z",
+          "name": "2x2x2 Cube, Round 2",
+          "start": "2027-01-02T15:35:00Z"
+        },
+        {
+          "end": "2027-01-02T15:35:00Z",
+          "name": "Skewb, Round 2",
+          "start": "2027-01-02T14:55:00Z"
+        },
+        {
+          "end": "2027-01-02T16:15:00Z",
+          "name": "Pyraminx, Round 2",
+          "start": "2027-01-02T15:55:00Z"
+        },
+        {
+          "end": "2027-01-02T16:35:00Z",
+          "name": "Skewb, Round 3",
+          "start": "2027-01-02T16:15:00Z"
+        },
+        {
+          "end": "2027-01-02T17:05:00Z",
+          "name": "Face Turning Octahedron, Round 3",
+          "start": "2027-01-02T16:35:00Z"
+        },
+        {
+          "end": "2027-01-02T17:20:00Z",
+          "name": "Desmontaje | Teardown",
+          "start": "2027-01-02T17:05:00Z"
+        },
+        {
+          "end": "2027-01-02T08:30:00Z",
+          "name": "Montaje | Setup",
+          "start": "2027-01-02T08:00:00Z"
+        }
+      ],
+      "start_date": "2027-01-02",
+      "venue": "La Perrera"
+    },
     "VilladeCatralReOpen2027": {
       "cancelled_at": null,
       "city": "Villa de Catral, Alicante",
@@ -928,5 +1172,5 @@
       "venue": "[S.U.M. \"La Constancia\"](https://www.sumlaconstancia.com/)"
     }
   },
-  "updated_at": "2026-11-24T19:57:30.574654Z"
+  "updated_at": "2026-11-25T03:27:12.485947Z"
 }
