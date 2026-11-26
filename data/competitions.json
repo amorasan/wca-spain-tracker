@@ -212,6 +212,165 @@
       "start_date": "2027-02-13",
       "venue": "Auditorio de Chapineria"
     },
+    "CoriaSoRalAlbur2027": {
+      "cancelled_at": null,
+      "city": "Coria del Río, Sevilla",
+      "competitor_limit": 50,
+      "end_date": "2027-01-03",
+      "events": [
+        "333",
+        "222",
+        "444",
+        "555",
+        "666",
+        "777",
+        "333bf",
+        "333fm",
+        "333oh",
+        "clock",
+        "minx",
+        "pyram",
+        "skewb",
+        "sq1",
+        "444bf",
+        "555bf",
+        "333mbf",
+        "fto"
+      ],
+      "id": "CoriaSoRalAlbur2027",
+      "name": "Coria SoR al Albur 2027",
+      "registration_close": "2026-12-25T22:59:00.000Z",
+      "registration_open": "2026-11-28T19:00:00.000Z",
+      "schedule": [
+        {
+          "end": "2027-01-03T12:55:00Z",
+          "name": "3x3x3 Cube, Round 1",
+          "start": "2027-01-03T11:55:00Z"
+        },
+        {
+          "end": "2027-01-02T12:05:00Z",
+          "name": "2x2x2 Cube, Round 1",
+          "start": "2027-01-02T10:25:00Z"
+        },
+        {
+          "end": "2027-01-03T11:00:00Z",
+          "name": "4x4x4 Cube, Round 1",
+          "start": "2027-01-03T10:05:00Z"
+        },
+        {
+          "end": "2027-01-02T10:25:00Z",
+          "name": "5x5x5 Cube, Round 1",
+          "start": "2027-01-02T09:30:00Z"
+        },
+        {
+          "end": "2027-01-02T15:55:00Z",
+          "name": "3x3x3 Fewest Moves, Round 1, Attempt 1",
+          "start": "2027-01-02T14:45:00Z"
+        },
+        {
+          "end": "2027-01-02T19:25:00Z",
+          "name": "3x3x3 Multi-Blind, Round 1, Attempt 1",
+          "start": "2027-01-02T18:15:00Z"
+        },
+        {
+          "end": "2027-01-03T13:25:00Z",
+          "name": "Face Turning Octahedron, Round 3",
+          "start": "2027-01-03T12:55:00Z"
+        },
+        {
+          "end": "2027-01-02T18:15:00Z",
+          "name": "6x6x6 Cube, Round 1",
+          "start": "2027-01-02T16:40:00Z"
+        },
+        {
+          "end": "2027-01-02T18:15:00Z",
+          "name": "7x7x7 Cube, Round 1",
+          "start": "2027-01-02T16:40:00Z"
+        },
+        {
+          "end": "2027-01-03T09:25:00Z",
+          "name": "3x3x3 Blindfolded, Round 1",
+          "start": "2027-01-03T08:40:00Z"
+        },
+        {
+          "end": "2027-01-03T10:05:00Z",
+          "name": "3x3x3 One-Handed, Round 1",
+          "start": "2027-01-03T09:25:00Z"
+        },
+        {
+          "end": "2027-01-02T12:05:00Z",
+          "name": "Clock, Round 1",
+          "start": "2027-01-02T10:25:00Z"
+        },
+        {
+          "end": "2027-01-02T12:05:00Z",
+          "name": "Pyraminx, Round 1",
+          "start": "2027-01-02T10:25:00Z"
+        },
+        {
+          "end": "2027-01-02T12:05:00Z",
+          "name": "Skewb, Round 1",
+          "start": "2027-01-02T10:25:00Z"
+        },
+        {
+          "end": "2027-01-03T11:55:00Z",
+          "name": "Megaminx, Round 1",
+          "start": "2027-01-03T11:00:00Z"
+        },
+        {
+          "end": "2027-01-02T16:40:00Z",
+          "name": "Square-1, Round 1",
+          "start": "2027-01-02T15:55:00Z"
+        },
+        {
+          "end": "2027-01-02T13:15:00Z",
+          "name": "4x4x4 Blindfolded, Round 1",
+          "start": "2027-01-02T12:05:00Z"
+        },
+        {
+          "end": "2027-01-02T13:15:00Z",
+          "name": "5x5x5 Blindfolded, Round 1",
+          "start": "2027-01-02T12:05:00Z"
+        },
+        {
+          "end": "2027-01-02T09:30:00Z",
+          "name": "Face Turning Octahedron, Round 1",
+          "start": "2027-01-02T08:30:00Z"
+        },
+        {
+          "end": "2027-01-03T08:40:00Z",
+          "name": "Face Turning Octahedron, Round 2",
+          "start": "2027-01-03T08:00:00Z"
+        },
+        {
+          "end": "2027-01-02T14:45:00Z",
+          "name": "Comida",
+          "start": "2027-01-02T13:15:00Z"
+        },
+        {
+          "end": "2027-01-02T08:30:00Z",
+          "name": "Registro",
+          "start": "2027-01-02T08:00:00Z"
+        },
+        {
+          "end": "2027-01-02T08:30:00Z",
+          "name": "Tutorial para nuevos competidores",
+          "start": "2027-01-02T08:15:00Z"
+        },
+        {
+          "end": "2027-01-03T13:55:00Z",
+          "name": "Entrega de premios",
+          "start": "2027-01-03T13:25:00Z"
+        },
+        {
+          "end": "2027-01-02T16:40:00Z",
+          "name": "Entrega de cubos para 3x3x3 Multi-Blind",
+          "start": "2027-01-02T15:55:00Z"
+        }
+      ],
+      "start_date": "2027-01-02",
+      "venue": "CEIP Maestro Manuel Gómez"
+    },
     "EcijaOpen2027": {
       "cancelled_at": null,
       "city": "Écija, Sevilla",
@@ -1266,5 +1425,5 @@
       "venue": "[S.U.M. \"La Constancia\"](https://www.sumlaconstancia.com/)"
     }
   },
-  "updated_at": "2026-11-26T04:47:22.756384Z"
+  "updated_at": "2026-11-26T14:44:26.257695Z"
 }
